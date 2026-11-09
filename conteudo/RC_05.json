@@ -1,0 +1,149 @@
+{
+ "trilha": "RC",
+ "n": 5,
+ "titulo": "Conduta, dano e nexo: o tríptico da imputação",
+ "objetivo": "Verificar em ordem conduta, dano e nexo, aplicar as teorias da causalidade e reconhecer quando excludentes e culpa concorrente afastam ou reduzem a indenização.",
+ "relampago": [
+  "Conduta ilícita indeniza pela legalidade; conduta lícita, pela isonomia, desde que o dano seja anormal e específico.",
+  "Dano é lesão a bem jurídico protegido, ainda que só moral. Sem IR sobre dano moral (Súmula 498); juros desde o evento (Súmula 54); correção do dano moral desde o arbitramento (Súmula 362).",
+  "Nexo: causalidade adequada e dano direto e imediato (CC, art. 403). Proximidade no tempo, sozinha, não basta.",
+  "Tema 362: crime de foragido sem nexo direto e imediato com a fuga não gera responsabilidade; pesam o intervalo de tempo e as causas supervenientes independentes.",
+  "Fato exclusivo da vítima exclui; culpa concorrente reduz; fato de terceiro e fortuito só excluem se estranhos ao risco do serviço.",
+  "Fogos na praça: sem aviso nem isolamento, não há culpa dos pais. Multidões: em regra, fato de terceiro, salvo previsibilidade e evitabilidade."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "Para que um ato estatal lícito gere dever de indenizar, a doutrina exige que o dano seja anormal e específico, isto é, que ultrapasse os incômodos comuns e atinja pessoa ou grupo determinado.",
+   "gabarito": "C",
+   "comentario": "Certo. No ato lícito, o fundamento é a isonomia na repartição dos encargos públicos. Duas semanas de poeira por recapagem é incômodo normal; fechar por dois anos o único acesso a uma loja é dano anormal e específico.",
+   "base": "Doutrina (Celso Antônio Bandeira de Mello; Di Pietro)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Na responsabilidade extracontratual, os juros de mora fluem a partir da citação, e a correção monetária do dano moral corre desde o evento danoso.",
+   "gabarito": "E",
+   "comentario": "Errado: os marcos estão trocados. Os juros de mora correm desde o evento danoso (Súmula 54/STJ) e a correção monetária do dano moral corre desde o arbitramento (Súmula 362/STJ).",
+   "base": "STJ, Súmulas 54 e 362"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Não incide imposto de renda sobre a indenização por danos morais.",
+   "gabarito": "C",
+   "comentario": "Certo. A indenização por dano moral compensa uma lesão, não representa acréscimo patrimonial tributável. É o entendimento sumulado do STJ.",
+   "base": "STJ, Súmula 498"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo o STF, o Estado responde objetivamente por crime praticado por foragido do sistema prisional independentemente da demonstração de nexo causal direto entre a fuga e a conduta.",
+   "gabarito": "E",
+   "comentario": "Errado. Pelo Tema 362, sem nexo direto e imediato entre a fuga e o crime posterior não há responsabilidade objetiva. O fundamento é a ruptura do nexo causal, e não a conversão do caso em responsabilidade subjetiva.",
+   "base": "STF, Tema 362; CC, art. 403"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Em regra, os atos de multidão ensejam a responsabilidade objetiva do Estado, em razão do dever de vigilância permanente da Administração.",
+   "gabarito": "E",
+   "comentario": "Errado. Em regra, danos de multidões são fato de terceiro e não geram responsabilidade. A exceção exige previsibilidade e evitabilidade comprovadas, e a banca costuma tratar essa omissão como subjetiva (culpa do serviço).",
+   "base": "Doutrina; jurisprudência citada na aula"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Se a vítima apenas contribui para o dano, sem produzi-lo integralmente, o Estado não fica exonerado: a indenização é reduzida conforme a contribuição causal dela.",
+   "gabarito": "C",
+   "comentario": "Certo. Só o fato exclusivo da vítima rompe o nexo. A culpa concorrente atenua, não elimina, o dever de reparar, com redução proporcional da indenização.",
+   "base": "CF, art. 37, § 6º; Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Para a teoria do dano direto e imediato, adotada pelo STF no caso do preso foragido, a causa superveniente ___ corta a cadeia causal entre a conduta estatal e o dano.",
+   "opcoes": [
+    "concorrente",
+    "independente",
+    "preexistente",
+    "concomitante"
+   ],
+   "correta": 1,
+   "comentario": "Só se indeniza o efeito direto e imediato da conduta (CC, art. 403). Uma causa superveniente independente, como a posterior formação de quadrilha pelo foragido, inaugura novo nexo e suprime a relação entre a fuga e o crime.",
+   "base": "CC, art. 403; STF, Tema 362"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O fundamento da responsabilidade estatal por ato ilícito é o princípio da legalidade; por ato lícito, é o princípio da ___.",
+   "opcoes": [
+    "eficiência",
+    "moralidade",
+    "isonomia",
+    "publicidade"
+   ],
+   "correta": 2,
+   "comentario": "No ato ilícito o Estado violou a ordem jurídica e deve reparar. No ato lícito, a reparação decorre da igualdade diante dos encargos públicos: quem suporta sozinho o ônus de uma atuação que beneficia todos deve ser compensado.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um preso foge e, quatro meses depois, já integrado a uma facção, comete latrocínio em outro município, sem perseguição contínua. Pelo Tema 362 do STF, assinale a correta.",
+   "alternativas": [
+    "O Estado responde objetivamente, pois a fuga revela falha na custódia.",
+    "O Estado responde subjetivamente, por culpa do diretor do presídio.",
+    "Há culpa concorrente da vítima, com redução da indenização.",
+    "Não há responsabilidade, por ausência de nexo causal direto e imediato entre a fuga e o crime.",
+    "Aplica-se o risco integral, por se tratar de pessoa sob custódia."
+   ],
+   "correta": 3,
+   "comentario": "Analisam-se o critério cronológico (intervalo entre fuga e crime) e o surgimento de causas supervenientes independentes. Meses depois e após ingresso em facção, o nexo direto está rompido. Seria diferente se o preso ferisse alguém na mesma fuga.",
+   "base": "STF, Tema 362"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Após o Réveillon promovido pelo Município, restos de explosivos ficaram sem proteção na praça. Uma criança brincou no local e se feriu. Sobre a alegação municipal de culpa concorrente dos pais, segundo o STJ:",
+   "alternativas": [
+    "Deve ser acolhida, porque os pais tinham o dever de vigiar a criança em local público.",
+    "Deve ser afastada: sem aviso de proibição nem isolamento da área, a conduta do Município foi causa exclusiva do dano.",
+    "Deve ser acolhida, com redução da indenização pela metade.",
+    "Exclui totalmente a responsabilidade, por fato exclusivo de terceiro.",
+    "Torna a responsabilidade do Município subjetiva, exigindo prova de dolo."
+   ],
+   "correta": 1,
+   "comentario": "Deixar o filho brincar em logradouro público não é imprudência dos pais quando não havia proibição nem isolamento. O Município criou o perigo e não o neutralizou, e sua conduta foi a causa exclusiva do dano.",
+   "base": "STJ, REsp 1.837.378"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada situação ao seu efeito sobre o nexo causal.",
+   "pares": [
+    [
+     "Fato exclusivo da vítima",
+     "Exclui o dever de indenizar"
+    ],
+    [
+     "Culpa concorrente da vítima",
+     "Reduz a indenização proporcionalmente"
+    ],
+    [
+     "Fortuito interno",
+     "Não exonera o responsável"
+    ],
+    [
+     "Fato de terceiro autônomo e estranho ao risco do serviço",
+     "Pode romper o nexo"
+    ]
+   ],
+   "comentario": "O risco administrativo dispensa culpa, mas não o exame do nexo. A excludente depende da exterioridade do fato em relação ao risco do serviço: fato de terceiro e fortuito só excluem quando estranhos a esse risco.",
+   "base": "CF, art. 37, § 6º; CC, art. 403"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Uma torcida organizada anuncia nas redes sociais que vai depredar a avenida após o clássico. A polícia é formalmente avisada dias antes, mas não destaca efetivo para o local. Após o jogo, várias lojas são saqueadas. O dono de uma delas ajuíza ação contra o Estado, e este alega que o dano foi causado por terceiros.",
+   "pergunta": "Atos de multidão geram responsabilidade do Estado? A defesa estatal deve prevalecer neste caso e qual regime a banca costuma aplicar?",
+   "resposta": "Em regra, danos causados por multidões não geram responsabilidade do Estado, por se tratar de fato de terceiro. A exceção ocorre quando comprovadas a ciência prévia da manifestação (previsibilidade) e a possibilidade de evitar o dano (evitabilidade). No caso, a ameaça foi pública, a polícia foi avisada com antecedência e nada fez, de modo que estão presentes os dois requisitos e a alegação de fato de terceiro não deve prevalecer. A omissão estatal passa a ser examinada, e as bancas costumam tratá-la como responsabilidade subjetiva, por culpa do serviço.",
+   "checklist": [
+    "Regra: multidão é fato de terceiro e não gera responsabilidade",
+    "Exceção: previsibilidade e evitabilidade comprovadas",
+    "Aplicação aos fatos: aviso prévio e inércia policial",
+    "Leitura subjetiva pela culpa do serviço"
+   ],
+   "base": "Doutrina; jurisprudência citada na aula"
+  }
+ ]
+}

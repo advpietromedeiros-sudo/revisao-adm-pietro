@@ -1,0 +1,154 @@
+{
+ "trilha": "SP",
+ "n": 7,
+ "titulo": "Usuário, responsabilidade e a vida do contrato: da ouvidoria à reversão",
+ "objetivo": "Aplicar a Lei 13.460/2017 e o Tema 130 e separar subcontratação, subconcessão, transferência, intervenção e as formas de extinção da concessão.",
+ "relampago": [
+  "A Lei 13.460/2017 protege usuários reais e potenciais; a manifestação vale por qualquer canal, inclusive verbal reduzida a termo, e não se exigem motivos determinantes.",
+  "Ouvidoria: decisão em 30 dias, prorrogáveis uma vez por igual período; informações pedidas a agentes em 20 dias, também com uma prorrogação (art. 16).",
+  "Prestadora privada responde objetivamente inclusive perante quem não é usuário (Tema 130 do STF); a fiscalização do concedente não exclui nem atenua essa responsabilidade (art. 25).",
+  "Subcontratar (art. 25) não é subconceder (art. 26: autorização expressa + concorrência), que não é transferir (art. 27: anuência prévia, sob pena de caducidade).",
+  "Intervenção: decreto com interventor, prazo, objetivos e limites; processo em 30 dias, concluído em 180; sem procedimento é nula e o serviço volta à concessionária.",
+  "Encampação = interesse público + lei específica + indenização prévia; caducidade = inadimplemento + processo + decreto, sem indenização prévia; rescisão = ação judicial da concessionária.",
+  "Extinta a concessão, revertem os bens reversíveis e o concedente assume o serviço de imediato; indeniza-se o investimento ainda não amortizado."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "Pela Lei 13.460/2017, a ouvidoria deve encaminhar decisão final ao usuário em até 30 dias, prazo prorrogável uma única vez, justificadamente, por igual período.",
+   "gabarito": "C",
+   "comentario": "É o prazo do art. 16 da Lei 13.460/2017. A mesma lógica vale para as informações solicitadas aos agentes, só que com 20 dias, também prorrogáveis uma vez.",
+   "base": "Lei 13.460/2017, art. 16"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Para receber a reclamação, a ouvidoria pode exigir que o usuário exponha os motivos determinantes da manifestação, desde que o faça por formulário eletrônico.",
+   "gabarito": "E",
+   "comentario": "O art. 10 proíbe exigir os motivos determinantes e admite diversos canais: meio eletrônico, correspondência e até manifestação verbal reduzida a termo. Formulário deve facilitar, não barrar.",
+   "base": "Lei 13.460/2017, art. 10"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A concessionária de transporte coletivo responde objetivamente pelo atropelamento de ciclista que nunca utilizou suas linhas.",
+   "gabarito": "C",
+   "comentario": "No Tema 130, o STF assentou que a responsabilidade objetiva da prestadora privada de serviço público alcança também terceiros não usuários. O fato de a vítima nunca ter pago passagem é irrelevante.",
+   "base": "CF, art. 37, § 6º; STF, Tema 130"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A encampação pode ser feita por simples decreto, com a indenização apurada e paga depois da retomada do serviço.",
+   "gabarito": "E",
+   "comentario": "Encampação exige motivo de interesse público, lei autorizativa específica e pagamento prévio da indenização (art. 37). Decreto sem indenização prévia é a marca da caducidade, não da encampação.",
+   "base": "Lei 8.987/1995, art. 37"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Instaurado o processo administrativo e comprovada a inadimplência, a caducidade é declarada por decreto do poder concedente, independentemente de indenização prévia.",
+   "gabarito": "C",
+   "comentario": "É o art. 38, § 4º. A indenização eventualmente devida é calculada depois, com desconto das multas contratuais e dos danos causados pela concessionária (§ 5º).",
+   "base": "Lei 8.987/1995, art. 38, §§ 4º e 5º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Decretada a intervenção, o procedimento administrativo deve ser instaurado em até 30 dias e concluído em até 90 dias, sob pena de invalidade.",
+   "gabarito": "E",
+   "comentario": "O prazo de conclusão é de 180 dias, não 90. O de instauração, 30 dias, está correto; o erro está num único número, como costuma acontecer em prova.",
+   "base": "Lei 8.987/1995, arts. 32 a 34"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A transferência da concessão ou do controle societário da concessionária sem prévia anuência do poder concedente implica a ___ da concessão.",
+   "opcoes": [
+    "encampação",
+    "caducidade",
+    "rescisão",
+    "reversão"
+   ],
+   "correta": 1,
+   "comentario": "O art. 27 comina caducidade, porque a transferência não autorizada é falta da concessionária. A anuência depende de capacidade técnica, idoneidade financeira, regularidade jurídica e fiscal e compromisso com as cláusulas vigentes.",
+   "base": "Lei 8.987/1995, art. 27"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A outorga de subconcessão depende de autorização expressa do poder concedente e será sempre precedida de ___.",
+   "opcoes": [
+    "lei específica",
+    "anuência dos usuários",
+    "concorrência",
+    "decreto de intervenção"
+   ],
+   "correta": 2,
+   "comentario": "O art. 26, § 1º, exige concorrência para a subconcessão, e o subconcessionário se sub-roga nos direitos e deveres do subconcedente nos limites da subconcessão. Confiança no particular não dispensa o procedimento.",
+   "base": "Lei 8.987/1995, art. 26"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "A concessionária de ônibus contrata uma empresa para higienizar os veículos diariamente. Juridicamente, trata-se de:",
+   "alternativas": [
+    "subconcessão, que exige concorrência e autorização expressa do concedente.",
+    "transferência da concessão, sujeita à anuência prévia do concedente.",
+    "intervenção indireta, que depende de decreto do poder concedente.",
+    "delegação de serviço público à empresa de limpeza, que passa a responder perante o concedente.",
+    "subcontratação de atividade acessória, permanecendo a concessionária responsável perante o concedente."
+   ],
+   "correta": 4,
+   "comentario": "Higienização é atividade acessória: o art. 25 permite contratar terceiros, sem transferir a posição de delegatária e sem criar vínculo entre terceirizado e poder concedente. Nem toda terceirização é subconcessão.",
+   "base": "Lei 8.987/1995, arts. 25 e 26"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "A concessionária de saneamento descumpre reiteradamente os padrões de potabilidade e não corrige as falhas mesmo após intimada. O Município quer encerrar a concessão. A via adequada é:",
+   "alternativas": [
+    "caducidade, após processo administrativo com direito de defesa, declarada por decreto.",
+    "encampação, por lei específica e indenização prévia.",
+    "rescisão, mediante ação judicial proposta pelo Município.",
+    "anulação, por ilegalidade do contrato.",
+    "advento do termo, antecipado por ato discricionário."
+   ],
+   "correta": 0,
+   "comentario": "Inexecução grave pela concessionária leva à caducidade (art. 38), com apuração, oportunidade de correção e defesa. Encampação é retomada por interesse público sem falta da empresa, e rescisão é a via da concessionária contra o concedente.",
+   "base": "Lei 8.987/1995, arts. 37 a 39"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada forma de extinção da concessão à sua causa ou requisito.",
+   "pares": [
+    [
+     "Advento do termo",
+     "Fim do prazo contratual"
+    ],
+    [
+     "Encampação",
+     "Interesse público, lei específica e indenização prévia"
+    ],
+    [
+     "Caducidade",
+     "Inexecução da concessionária, apurada em processo"
+    ],
+    [
+     "Rescisão",
+     "Ação judicial da concessionária contra o descumprimento do concedente"
+    ],
+    [
+     "Anulação",
+     "Ilegalidade, como fraude que vicia a licitação"
+    ]
+   ],
+   "comentario": "Cada modalidade parte de um fato diferente: o tempo, a conveniência pública, a falta da concessionária, a falta do concedente ou o vício de legalidade. Em todas, os bens reversíveis voltam ao concedente e o serviço é assumido de imediato (art. 35).",
+   "base": "Lei 8.987/1995, arts. 35 a 39"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Um ônibus de concessionária municipal atropela um ciclista por falha do motorista. A empresa alega que a Prefeitura vistoriou a frota na semana anterior e que o ciclista nunca foi seu passageiro. Dias depois, descobre-se que o grupo controlador vendeu o controle da concessionária sem consultar o Município. O Prefeito decreta intervenção, nomeia interventor, mas passados dois meses nenhum processo administrativo foi aberto.",
+   "pergunta": "Analise a responsabilidade pelo acidente, a consequência da venda do controle e a validade da intervenção.",
+   "resposta": "Pelo acidente, a concessionária responde objetivamente (CF, art. 37, § 6º), e o Tema 130 do STF estende essa responsabilidade a terceiros não usuários, como o ciclista. A vistoria da Prefeitura não exclui nem atenua a responsabilidade da delegatária (art. 25). A transferência do controle societário sem prévia anuência do concedente implica caducidade (art. 27), que deve ser declarada por decreto após processo administrativo com defesa. A intervenção, embora feita por decreto, exige instauração de processo em até 30 dias e conclusão em até 180; sem procedimento, ela é inválida, o serviço deve ser devolvido à concessionária e pode haver indenização.",
+   "checklist": [
+    "Responsabilidade objetiva perante não usuário (Tema 130)",
+    "Fiscalização do concedente não afasta a responsabilidade",
+    "Venda de controle sem anuência gera caducidade, com devido processo",
+    "Intervenção sem processo em 30 dias é nula, com devolução do serviço"
+   ],
+   "base": "CF, art. 37, § 6º; STF, Tema 130; Lei 8.987/1995, arts. 25, 27 e 32 a 34"
+  }
+ ]
+}

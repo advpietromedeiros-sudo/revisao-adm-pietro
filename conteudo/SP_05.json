@@ -1,0 +1,161 @@
+{
+ "trilha": "SP",
+ "n": 5,
+ "titulo": "Concessão, permissão e autorização: quem recebe, como e em que regime",
+ "objetivo": "Distinguir concessão comum, concessão precedida de obra, permissão e autorização pelos elementos legais de cada uma.",
+ "relampago": [
+  "Concessão comum (art. 2º, II): delegação licitada por concorrência ou diálogo competitivo a pessoa jurídica ou consórcio, por conta e risco e com prazo determinado.",
+  "Pessoa física não é concessionária pela definição legal; se a lei admitir, pode ser permissionária (art. 2º, IV).",
+  "Na concessão precedida de obra, o particular constrói, reforma ou amplia e amortiza o investimento explorando o serviço ou a obra durante o prazo: não é empreitada.",
+  "'Por conta e risco' quer dizer riscos alocados no contrato — não apaga o direito ao reequilíbrio nem autoriza parar o serviço.",
+  "Permissão de serviço: precária, licitada e formalizada por contrato de adesão (art. 40). Não confunda com permissão de uso de bem público.",
+  "Autorização clássica é ato unilateral, discricionário e precário; mas há autorizações setoriais com requisitos objetivos e estabilidade próprias.",
+  "Antes do edital, o poder concedente publica ato justificando a conveniência da outorga (art. 5º)."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "Pela definição legal da Lei 8.987/1995, a concessão comum de serviço público pode ser outorgada a pessoa física que demonstre capacidade para o seu desempenho.",
+   "gabarito": "E",
+   "comentario": "A definição do art. 2º, II, fala em pessoa jurídica ou consórcio de empresas. A pessoa física só aparece na definição de permissão (art. 2º, IV). O elemento trocado é o destinatário da delegação.",
+   "base": "Lei 8.987/1995, art. 2º, II e IV"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Depois da Lei 14.133/2021, a concessão de serviço público pode ser licitada na modalidade diálogo competitivo, além da concorrência.",
+   "gabarito": "C",
+   "comentario": "A Lei 14.133/2021 reescreveu as definições do art. 2º da Lei 8.987/1995, que passaram a prever concorrência ou diálogo competitivo. Afirmar que a concessão exige somente concorrência é desatualizado.",
+   "base": "Lei 8.987/1995, art. 2º, II e III (redação da Lei 14.133/2021)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Na concessão comum, a cláusula 'por conta e risco' significa que a concessionária absorve todo e qualquer prejuízo, sem direito a reequilíbrio econômico-financeiro em nenhuma hipótese.",
+   "gabarito": "E",
+   "comentario": "Conta e risco é a assunção dos riscos que o edital e o contrato alocaram à concessionária. Eventos fora dessa álea, como uma alteração unilateral de alto custo, continuam a exigir recomposição da equação (art. 9º, § 4º).",
+   "base": "Lei 8.987/1995, arts. 2º, II, e 9º, § 4º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A permissão de serviço público é formalizada por contrato de adesão, que deve observar a precariedade e a revogabilidade unilateral pelo poder concedente.",
+   "gabarito": "C",
+   "comentario": "É o comando do art. 40 da Lei 8.987/1995. Por isso a permissão de serviço não é um favor verbal nem se confunde com a permissão de uso de bem público, que tem outro objeto e outro regime.",
+   "base": "Lei 8.987/1995, art. 40"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Por ser precária, a permissão de serviço público dispensa licitação prévia, bastando ato discricionário do poder concedente.",
+   "gabarito": "E",
+   "comentario": "A precariedade não afasta a licitação: o art. 2º, IV, define a permissão como delegação a título precário mediante licitação, e o art. 175 da CF exige licitação para concessão e permissão. Quem é tradicionalmente descrita sem licitação é a autorização clássica.",
+   "base": "CF, art. 175; Lei 8.987/1995, art. 2º, IV"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Antes de publicar o edital, o poder concedente deve publicar ___ que demonstre a conveniência da outorga, caracterizando objeto, área e prazo.",
+   "opcoes": [
+    "lei autorizativa específica",
+    "decreto de intervenção",
+    "ato justificativo",
+    "contrato de adesão"
+   ],
+   "correta": 2,
+   "comentario": "O art. 5º exige ato justificativo prévio ao edital. Lei autorizativa específica é requisito da encampação, decreto é instrumento da intervenção e contrato de adesão é a forma da permissão.",
+   "base": "Lei 8.987/1995, art. 5º"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Na concessão precedida de obra pública, o investimento feito pelo concessionário é ___ pela exploração do serviço ou da obra ao longo do prazo contratual.",
+   "opcoes": [
+    "pago integralmente pelo Estado na entrega",
+    "amortizado",
+    "dispensado de controle",
+    "convertido em taxa"
+   ],
+   "correta": 1,
+   "comentario": "A marca dessa espécie é que a obra se paga pela exploração posterior, ao longo do tempo, com os riscos definidos no edital. Se o Estado paga a obra na entrega, o arranjo é empreitada, não concessão.",
+   "base": "Lei 8.987/1995, art. 2º, III"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um Município quer delegar o transporte de passageiros em uma linha de baixa demanda a um motorista autônomo, pessoa física, escolhido em licitação, com vínculo precário e revogável unilateralmente. Qual instrumento é compatível com esse desenho?",
+   "alternativas": [
+    "Concessão comum de serviço público, por prazo determinado.",
+    "Permissão de serviço público, formalizada por contrato de adesão.",
+    "Alvará de funcionamento, por se tratar de atividade privada regulada.",
+    "Permissão de uso de bem público, por envolver o uso das vias.",
+    "Concessão administrativa, na forma da lei das PPPs."
+   ],
+   "correta": 1,
+   "comentario": "Pessoa física, precariedade e revogabilidade unilateral são traços da permissão (art. 2º, IV, e art. 40). A concessão comum só cabe a pessoa jurídica ou consórcio, o alvará não delega serviço público e a permissão de uso tem por objeto um bem, não um serviço.",
+   "base": "Lei 8.987/1995, arts. 2º, IV, e 40"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Sobre a concessão comum da Lei 8.987/1995, assinale a alternativa correta.",
+   "alternativas": [
+    "É ato unilateral e precário, revogável a qualquer tempo sem indenização.",
+    "Só pode ser licitada por concorrência, mesmo após a Lei 14.133/2021.",
+    "O contrato da concessionária com uma empresa de limpeza do terminal cria vínculo direto entre a terceirizada e o poder concedente.",
+    "Formaliza-se em contrato, precedido de ato justificativo, e a concessionária responde pelos danos causados a usuários e terceiros.",
+    "É vedado prever receita de publicidade, pois a única fonte de remuneração admitida é a tarifa."
+   ],
+   "correta": 3,
+   "comentario": "A concessão é contratual, precedida do ato do art. 5º, e o art. 25 impõe à concessionária responsabilidade pelos danos a usuários e terceiros. Os contratos com terceiros não criam relação com o concedente, e receitas acessórias previstas no edital são admitidas (art. 11).",
+   "base": "Lei 8.987/1995, arts. 5º, 11 e 25"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Assinale a afirmação correta sobre a autorização no campo dos serviços públicos.",
+   "alternativas": [
+    "Toda autorização de serviço público é livremente revogável e dispensa qualquer requisito ou procedimento.",
+    "O alvará sanitário de um restaurante transfere a ele parcela do serviço público de saúde.",
+    "A autorização de transporte rodoviário interestadual converte-se em concessão quando há ônibus e passageiros.",
+    "Diante da demora do Executivo, o juiz pode outorgar diretamente o serviço de rádio comunitária ao interessado.",
+    "O STF admite, em hipóteses específicas, autorização sem licitação para transporte terrestre coletivo desvinculado de infraestrutura."
+   ],
+   "correta": 4,
+   "comentario": "O art. 21 da CF prevê autorização, concessão e permissão em serviços federais, e o STF admite autorização sem licitação no transporte terrestre coletivo desvinculado de infraestrutura. As demais generalizam demais: há autorizações com requisitos legais, alvará de polícia não delega serviço e o juiz não substitui o Executivo na outorga.",
+   "base": "CF, art. 21; jurisprudência do STF sobre transporte terrestre coletivo"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada figura ao traço que a identifica.",
+   "pares": [
+    [
+     "Concessão comum",
+     "Pessoa jurídica ou consórcio, prazo determinado, concorrência ou diálogo competitivo"
+    ],
+    [
+     "Permissão de serviço público",
+     "Pessoa física ou jurídica, precariedade e contrato de adesão"
+    ],
+    [
+     "Autorização clássica",
+     "Ato unilateral, discricionário e precário, em geral sem licitação"
+    ],
+    [
+     "Concessão precedida de obra",
+     "Construção ou ampliação amortizada pela exploração ao longo do prazo"
+    ],
+    [
+     "Alvará de polícia",
+     "Libera atividade privada regulada, sem delegar serviço público"
+    ]
+   ],
+   "comentario": "O mesmo vocábulo pode esconder regimes distintos: o que separa as figuras é o destinatário, a estabilidade do vínculo, o procedimento e o objeto. Autorização de polícia e autorização de serviço público têm objetos jurídicos diferentes.",
+   "base": "Lei 8.987/1995, arts. 2º e 40; CF, arts. 21 e 175"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Um Município quer que uma empresa construa uma ponte e cobre pedágio por 25 anos para recuperar o investimento. Na sessão da Câmara, um vereador afirma: (1) basta contratar diretamente uma empresa de confiança; (2) se a receita cair, a empresa poderá parar a cobrança e a operação, porque atua 'por sua conta e risco'; (3) um engenheiro autônomo, pessoa física, também poderia ser o concessionário.",
+   "pergunta": "Qualifique juridicamente o arranjo e corrija cada uma das três afirmações do vereador.",
+   "resposta": "O desenho é de concessão precedida de obra pública: o particular constrói a ponte e amortiza o investimento pela exploração, cobrando tarifa (pedágio), durante prazo determinado. (1) Não cabe contratação direta: a concessão exige licitação por concorrência ou diálogo competitivo, precedida de ato justificativo do poder concedente (art. 5º). (2) Conta e risco significa assumir os riscos alocados no contrato; não autoriza interromper o serviço, que deve ser adequado e contínuo, e desequilíbrios fora da álea se resolvem por revisão, não por abandono. (3) A concessão só se outorga a pessoa jurídica ou consórcio de empresas; a pessoa física aparece apenas na definição de permissão.",
+   "checklist": [
+    "Enquadra como concessão precedida de obra, com amortização pela exploração",
+    "Exige licitação (concorrência ou diálogo competitivo) e ato justificativo",
+    "Conta e risco não autoriza parar o serviço; reequilíbrio se faz por revisão",
+    "Concessão só para pessoa jurídica ou consórcio"
+   ],
+   "base": "CF, art. 175; Lei 8.987/1995, arts. 2º, III, 5º e 6º"
+  }
+ ]
+}

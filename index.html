@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Trilha de Revisão · Direito Administrativo | Prof. Pietro Medeiros</title>
+<meta name="description" content="Revisão passo a passo, com questões comentadas, de Responsabilidade Civil do Estado e Serviços Públicos.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b1f3a'/%3E%3Cpath d='M16 44l10-10 8 8 14-18' fill='none' stroke='%23e5aa3d' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root{--navy:#0b1f3a;--navy2:#13335c;--gold:#d59422;--gold2:#fff4d7;--ink:#172033;--muted:#566275;--line:#d9e0e8;--paper:#f4f6f9;--card:#fff;
+ --ok:#16714a;--okbg:#e6f5ee;--no:#a8322a;--nobg:#fbeceb;--blue:#1d5d92;--bluebg:#e9f2f8;--shadow:0 10px 30px rgba(10,30,55,.08);--fs:1rem}
+:root[data-tema="escuro"]{--ink:#ecf1f7;--muted:#a9b6c6;--line:#2c3d55;--paper:#0b1626;--card:#132238;--gold2:#3a2d14;--okbg:#10301f;--nobg:#3a1a18;--bluebg:#132d45;--ok:#6fd3a2;--no:#ff9b8f;--blue:#8cc4f0;--shadow:0 10px 30px rgba(0,0,0,.3)}
+@media (prefers-color-scheme:dark){:root:not([data-tema="claro"]){--ink:#ecf1f7;--muted:#a9b6c6;--line:#2c3d55;--paper:#0b1626;--card:#132238;--gold2:#3a2d14;--okbg:#10301f;--nobg:#3a1a18;--bluebg:#132d45;--ok:#6fd3a2;--no:#ff9b8f;--blue:#8cc4f0;--shadow:0 10px 30px rgba(0,0,0,.3)}}
+*{box-sizing:border-box}html{font-size:calc(17px * var(--fs))}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 1rem/1.65 Inter,ui-sans-serif,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+button,input,select,textarea{font:inherit;color:inherit}
+h1,h2,h3{font-family:Georgia,"Times New Roman",serif;line-height:1.2;margin:0 0 .5rem}
+.topo{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:.7rem;padding:.6rem 1rem;background:var(--navy);color:#fff;box-shadow:0 2px 12px rgba(0,0,0,.15)}
+.marca{display:flex;align-items:center;gap:.6rem;min-width:0;cursor:pointer;background:none;border:0;color:#fff;padding:0;text-align:left}
+.marca i{display:grid;place-items:center;flex:none;width:36px;height:36px;border-radius:10px;background:var(--gold);color:var(--navy);font-style:normal;font-weight:900}
+.marca b{display:block;font-size:.92rem;line-height:1.15}.marca small{display:block;color:#b9c7d8;font-size:.7rem}
+.topo nav{margin-left:auto;display:flex;gap:.35rem}
+.ico{border:1px solid rgba(255,255,255,.2);background:rgba(255,255,255,.07);color:#fff;border-radius:9px;min-width:40px;min-height:38px;padding:.35rem .6rem;cursor:pointer;font-weight:800;font-size:.8rem}
+.ico:hover,.ico:focus-visible{border-color:var(--gold)}
+main{max-width:920px;margin:0 auto;padding:1.4rem 1rem 5rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.2rem 1.3rem;box-shadow:var(--shadow);margin-bottom:1rem}
+.hero{background:linear-gradient(130deg,#0a1a31,#163f6b 65%,#1b6a93);color:#fff;border-radius:20px;padding:1.6rem 1.5rem;margin-bottom:1.2rem;box-shadow:var(--shadow)}
+.hero h1{font-size:clamp(1.7rem,4.5vw,2.6rem);color:#fff}.hero p{color:#d6e2ee;margin:.3rem 0}
+.kicker{font-size:.7rem;letter-spacing:.15em;text-transform:uppercase;font-weight:900;color:#f3c76b}
+.passos{display:grid;grid-template-columns:repeat(4,1fr);gap:.6rem;margin-top:1rem}
+.passos div{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:12px;padding:.6rem .7rem;font-size:.8rem;color:#e5edf6}
+.passos b{display:block;color:#f3c76b;font-size:.75rem;letter-spacing:.06em}
+.trilhas{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.trilha{cursor:pointer;text-align:left;border:1px solid var(--line);border-top:5px solid var(--gold);background:var(--card);border-radius:16px;padding:1.2rem;box-shadow:var(--shadow);color:var(--ink)}
+.trilha:hover,.trilha:focus-visible{transform:translateY(-2px);border-color:var(--gold)}
+.trilha h2{font-size:1.3rem}.trilha p{color:var(--muted);margin:.2rem 0 .8rem;font-size:.92rem}
+.barra{height:8px;border-radius:99px;background:var(--line);overflow:hidden}.barra i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),#f0c25f);width:0}
+.mini{font-size:.8rem;color:var(--muted);margin-top:.4rem}
+.voltar{background:none;border:0;color:var(--blue);font-weight:800;cursor:pointer;padding:.2rem 0;margin-bottom:.6rem}
+.mapa{list-style:none;margin:0;padding:0;position:relative}
+.mapa:before{content:"";position:absolute;left:23px;top:20px;bottom:20px;width:3px;background:var(--line);border-radius:3px}
+.etapa{position:relative;display:flex;gap:.9rem;align-items:flex-start;margin-bottom:.8rem}
+.bola{position:relative;z-index:1;flex:none;display:grid;place-items:center;width:48px;height:48px;border-radius:50%;background:var(--card);border:3px solid var(--line);font:900 1rem Georgia,serif;color:var(--muted)}
+.etapa.feita .bola{background:var(--ok);border-color:var(--ok);color:#fff}
+.etapa.atual .bola{background:var(--gold);border-color:var(--gold);color:var(--navy)}
+.etapa-btn{flex:1;text-align:left;border:1px solid var(--line);background:var(--card);border-radius:14px;padding:.8rem 1rem;cursor:pointer;color:var(--ink);box-shadow:var(--shadow)}
+.etapa-btn:disabled{cursor:not-allowed;opacity:.55;box-shadow:none}
+.etapa-btn b{display:block;font-size:1rem}.etapa-btn small{display:block;color:var(--muted);font-size:.8rem;margin-top:.15rem}
+.selo{display:inline-block;font-size:.68rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;padding:.15rem .45rem;margin-top:.35rem}
+.selo.ok{background:var(--okbg);color:var(--ok)}.selo.tranca{background:var(--line);color:var(--muted)}.selo.vai{background:var(--gold2);color:#8a5a00}
+:root[data-tema="escuro"] .selo.vai{color:#f3c76b}
+.extras{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin-top:1rem}
+.extra{text-align:left;border:1px dashed var(--line);background:var(--card);border-radius:14px;padding:.9rem 1rem;cursor:pointer;color:var(--ink)}
+.extra:disabled{opacity:.5;cursor:not-allowed}.extra b{display:block}.extra small{color:var(--muted)}
+.relampago ol{margin:.4rem 0 0;padding-left:1.3rem}.relampago li{margin:.45rem 0}
+.objetivo{background:var(--bluebg);border-left:4px solid var(--blue);border-radius:0 12px 12px 0;padding:.7rem .9rem;margin:.6rem 0 1rem}
+.btn{border:0;border-radius:11px;background:var(--gold);color:#13213a;font-weight:900;padding:.75rem 1.2rem;cursor:pointer;font-size:.95rem}
+.btn:hover{filter:brightness(1.06)}.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.sec{background:transparent;border:1px solid var(--line);color:var(--ink)}
+.linha{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin-top:1rem}
+.prog{display:flex;align-items:center;gap:.7rem;margin-bottom:.8rem;font-size:.85rem;color:var(--muted)}.prog .barra{flex:1}
+.tipo{display:inline-block;font-size:.68rem;font-weight:900;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);background:var(--bluebg);border-radius:6px;padding:.2rem .5rem;margin-bottom:.6rem}
+.enun{font:400 1.13rem/1.6 Georgia,serif;margin:.2rem 0 1rem}
+.lac{display:inline-block;min-width:6.5rem;border-bottom:2px solid var(--gold);text-align:center;font-weight:800;color:var(--blue)}
+.ops{display:grid;gap:.55rem}.ops.ce{grid-template-columns:1fr 1fr}
+.op{display:flex;gap:.7rem;align-items:center;text-align:left;width:100%;border:2px solid var(--line);background:var(--card);border-radius:12px;padding:.75rem .9rem;cursor:pointer;color:var(--ink);font-weight:600;min-height:52px}
+.op:hover:not(:disabled){border-color:var(--gold)}.op:disabled{cursor:default}
+.op .k{flex:none;display:grid;place-items:center;width:1.9rem;height:1.9rem;border-radius:8px;background:var(--paper);border:1px solid var(--line);font-weight:900;color:var(--blue)}
+.ops.ce .op{justify-content:center;font-size:1.1rem;font-weight:900;letter-spacing:.05em}
+.op.certa{border-color:var(--ok);background:var(--okbg);color:var(--ok)}.op.errada{border-color:var(--no);background:var(--nobg);color:var(--no)}.op.apaga{opacity:.5}
+.assoc{display:grid;gap:.6rem}.par{display:grid;grid-template-columns:1fr 1.2fr;gap:.6rem;align-items:center;border:1px solid var(--line);border-radius:12px;padding:.55rem .7rem}
+.par select{width:100%;border:1px solid var(--line);border-radius:9px;padding:.5rem;background:var(--paper)}
+.par.certa{border-color:var(--ok);background:var(--okbg)}.par.errada{border-color:var(--no);background:var(--nobg)}
+.par .gab{grid-column:1/-1;font-size:.82rem;color:var(--ok);font-weight:700}
+textarea{width:100%;min-height:120px;border:1px solid var(--line);border-radius:12px;padding:.7rem;background:var(--paper);resize:vertical}
+.pergunta{font-weight:800;color:var(--blue);margin:.2rem 0 .6rem}
+.fb{margin-top:1rem;border-radius:14px;padding:1rem 1.1rem;border:1px solid var(--line);background:var(--paper)}
+.fb.ok{border-color:var(--ok);background:var(--okbg)}.fb.no{border-color:var(--no);background:var(--nobg)}.fb.neutro{border-color:var(--blue);background:var(--bluebg)}
+.fb .veredito{display:block;font-weight:900;margin-bottom:.3rem}.fb.ok .veredito{color:var(--ok)}.fb.no .veredito{color:var(--no)}.fb.neutro .veredito{color:var(--blue)}
+.fb p{margin:.3rem 0}.base{display:inline-block;margin-top:.5rem;font-size:.8rem;font-weight:800;color:var(--muted)}
+.check{list-style:none;padding:0;margin:.5rem 0}.check li{margin:.35rem 0}.check label{display:flex;gap:.5rem;align-items:flex-start;cursor:pointer}
+.check input{width:20px;height:20px;margin-top:.2rem;accent-color:var(--ok)}
+.auto{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.7rem}.auto .btn{flex:1;min-width:150px}
+.auto .sim{background:var(--ok);color:#fff}.auto .nao{background:var(--no);color:#fff}.auto .meio{background:var(--blue);color:#fff}
+.placar{display:grid;grid-template-columns:repeat(3,1fr);gap:.7rem;margin:1rem 0}
+.placar div{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:.8rem;text-align:center}
+.placar b{display:block;font:900 1.8rem Georgia,serif}.placar span{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.erros{display:grid;gap:.6rem}.erro{border-left:4px solid var(--no);background:var(--paper);border-radius:0 12px 12px 0;padding:.7rem .9rem;font-size:.92rem}
+.erro small{display:block;color:var(--muted);font-weight:800}
+.atalhos{font-size:.75rem;color:var(--muted);margin-top:.8rem}
+.vazio{color:var(--muted);text-align:center;padding:1.2rem}
+.rodape{text-align:center;font-size:.75rem;color:var(--muted);padding:1rem}
+@media(max-width:700px){.trilhas,.extras{grid-template-columns:1fr}.passos{grid-template-columns:1fr 1fr}.ops.ce{grid-template-columns:1fr 1fr}.par{grid-template-columns:1fr}.placar b{font-size:1.4rem}.marca small{display:none}}
+@media print{.topo,.linha,.auto{display:none}}
+</style>
+</head>
+<body>
+<header class="topo">
+ <button class="marca" type="button" onclick="ir('inicio')" aria-label="Voltar ao início"><i>✓</i><span><b>Trilha de Revisão</b><small>Direito Administrativo · Prof. Pietro Medeiros</small></span></button>
+ <nav aria-label="Preferências">
+  <button class="ico" type="button" onclick="fonte(-1)" aria-label="Diminuir letra">A−</button>
+  <button class="ico" type="button" onclick="fonte(1)" aria-label="Aumentar letra">A+</button>
+  <button class="ico" type="button" onclick="tema()" aria-label="Alternar tema claro e escuro">◐</button>
+ </nav>
+</header>
+<main id="tela" tabindex="-1"></main>
+<p class="rodape">Material de revisão do Prof. Pietro Medeiros · seu progresso fica salvo só neste navegador.</p>
+<script src="conteudo.js"></script>
+<script>
+"use strict";
+/* Trilha de Revisão — motor (09/11/2026). Dados em conteudo.js (window.TRILHAS), gerado por ferramentas/montar.py.
+   Método: etapa = revisão-relâmpago + questões em ordem didática (fixar → aplicar → integrar no caso);
+   a etapa seguinte libera com 70% de acerto; desafio final e caderno de erros por trilha. */
+const T=window.TRILHAS||{};const META=0.7;const CHAVE='trilha-adm:v1';
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let S={tema:null,fs:1,livre:false,t:{}};
+try{const x=JSON.parse(localStorage.getItem(CHAVE)||'null');if(x&&typeof x==='object')S=Object.assign(S,x,{t:x.t||{}})}catch(e){}
+const salvar=()=>{try{localStorage.setItem(CHAVE,JSON.stringify(S))}catch(e){}};
+const st=k=>{const x=S.t[k]=S.t[k]||{};x.melhor=x.melhor||{};x.erros=x.erros||[];return x};
+function aplicarPrefs(){if(S.tema)document.documentElement.dataset.tema=S.tema;else delete document.documentElement.dataset.tema;document.documentElement.style.setProperty('--fs',S.fs)}
+function fonte(d){S.fs=Math.max(.85,Math.min(1.4,Math.round((S.fs+d*.08)*100)/100));salvar();aplicarPrefs()}
+function tema(){const escuro=matchMedia('(prefers-color-scheme: dark)').matches;const atual=S.tema||(escuro?'escuro':'claro');S.tema=atual==='escuro'?'claro':'escuro';salvar();aplicarPrefs()}
+const embaralha=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const etapas=k=>(T[k]&&T[k].etapas)||[];
+const feita=(k,n)=>(st(k).melhor[n]||0)>=META;
+const liberada=(k,i)=>S.livre||i===0||feita(k,etapas(k)[i-1].n);
+const pct=v=>Math.round(v*100)+'%';
+let sessao=null;
+
+function ir(rota,a,b){window.scrollTo(0,0);if(rota==='inicio')inicio();else if(rota==='trilha')trilha(a);else if(rota==='etapa')etapa(a,b);$('tela').focus({preventScroll:true})}
+
+function inicio(){
+ const ks=Object.keys(T);
+ const cards=ks.map(k=>{const es=etapas(k),f=es.filter(e=>feita(k,e.n)).length;return `<button class="trilha" type="button" onclick="ir('trilha','${k}')"><div class="kicker" style="color:var(--gold)">${es.length} etapas · ${es.reduce((s,e)=>s+e.questoes.length,0)} questões</div><h2>${esc(T[k].nome)}</h2><p>${esc(T[k].descricao||'')}</p><div class="barra"><i style="width:${es.length?f/es.length*100:0}%"></i></div><div class="mini">${f} de ${es.length} etapas concluídas</div></button>`}).join('');
+ $('tela').innerHTML=`<section class="hero"><div class="kicker">Revisão guiada</div><h1>Aprenda por etapas, questão por questão</h1><p>Escolha uma trilha. Cada etapa começa com uma revisão relâmpago e segue com questões comentadas de tipos diferentes. Acerte 70% para liberar a próxima.</p>
+ <div class="passos"><div><b>1 · RELEMBRE</b>Pontos-chave em poucas frases</div><div><b>2 · FIXE</b>Certo/Errado e lacunas</div><div><b>3 · APLIQUE</b>Múltipla escolha e associação</div><div><b>4 · INTEGRE</b>Caso prático com resposta-modelo</div></div></section>
+ ${ks.length?`<div class="trilhas">${cards}</div>`:`<div class="card vazio">Conteúdo não carregado (falta o arquivo conteudo.js).</div>`}`;
+}
+
+function trilha(k){
+ const D=T[k];if(!D)return inicio();const es=etapas(k),x=st(k);
+ const atual=es.findIndex(e=>!feita(k,e.n));const todas=atual<0;
+ const itens=es.map((e,i)=>{const lib=liberada(k,i),ok=feita(k,e.n),m=x.melhor[e.n];const cls=ok?'feita':(i===atual?'atual':'');
+  const selo=ok?`<span class="selo ok">✓ concluída · ${pct(m)}</span>`:lib?(m!=null?`<span class="selo vai">melhor: ${pct(m)} · meta 70%</span>`:`<span class="selo vai">liberada</span>`):`<span class="selo tranca">🔒 conclua a etapa ${i}</span>`;
+  return `<li class="etapa ${cls}"><span class="bola">${e.n}</span><button class="etapa-btn" type="button" ${lib?'':'disabled aria-disabled="true"'} onclick="ir('etapa','${k}',${i})"><b>${esc(e.titulo)}</b><small>${esc(e.objetivo)}</small>${selo}</button></li>`}).join('');
+ $('tela').innerHTML=`<button class="voltar" type="button" onclick="ir('inicio')">← Trilhas</button>
+ <div class="card"><div class="kicker" style="color:var(--gold)">Trilha</div><h1>${esc(D.nome)}</h1><p style="color:var(--muted);margin:.2rem 0 .8rem">${esc(D.descricao||'')}</p>
+ <div class="barra"><i style="width:${es.filter(e=>feita(k,e.n)).length/es.length*100}%"></i></div><div class="mini">${es.filter(e=>feita(k,e.n)).length} de ${es.length} etapas concluídas</div>
+ <label class="mini" style="display:flex;gap:.4rem;align-items:center;margin-top:.6rem;cursor:pointer"><input type="checkbox" ${S.livre?'checked':''} onchange="S.livre=this.checked;salvar();trilha('${k}')"> Modo livre: abrir todas as etapas (sem a meta de 70%)</label></div>
+ <ol class="mapa">${itens}</ol>
+ <div class="extras"><button class="extra" type="button" ${todas||S.livre?'':'disabled'} onclick="desafio('${k}')"><b>🏁 Desafio final</b><small>${todas||S.livre?'15 questões sorteadas de todas as etapas.':'Libera ao concluir todas as etapas.'}</small></button>
+ <button class="extra" type="button" ${x.erros.length?'':'disabled'} onclick="caderno('${k}')"><b>📒 Caderno de erros (${x.erros.length})</b><small>Refaça só o que você errou; acertou, sai do caderno.</small></button></div>`;
+}
+
+function etapa(k,i){
+ const e=etapas(k)[i];if(!e||!liberada(k,i))return trilha(k);
+ $('tela').innerHTML=`<button class="voltar" type="button" onclick="ir('trilha','${k}')">← ${esc(T[k].nome)}</button>
+ <div class="card relampago"><div class="kicker" style="color:var(--gold)">Etapa ${e.n} de ${etapas(k).length}</div><h1>${esc(e.titulo)}</h1>
+ <div class="objetivo"><b>Objetivo:</b> ${esc(e.objetivo)}</div>
+ <h2 style="font-size:1.15rem">⚡ Revisão relâmpago</h2><ol>${e.relampago.map(r=>`<li>${esc(r)}</li>`).join('')}</ol>
+ <div class="linha"><button class="btn" type="button" id="comecar" onclick="iniciar('${k}',${i})">Começar as ${e.questoes.length} questões →</button></div></div>`;
+ $('comecar').focus();
+}
+
+function iniciar(k,i){const e=etapas(k)[i];sessao={k,i,modo:'etapa',titulo:`Etapa ${e.n} · ${e.titulo}`,qs:e.questoes.map((q,j)=>({q,id:`${e.n}.${j}`})),pos:0,ok:0,log:[]};questao()}
+function desafio(k){const todas=etapas(k).flatMap(e=>e.questoes.map((q,j)=>({q,id:`${e.n}.${j}`}))).filter(x=>x.q.tipo!=='caso');sessao={k,modo:'desafio',titulo:'🏁 Desafio final',qs:embaralha(todas).slice(0,15),pos:0,ok:0,log:[]};questao()}
+function caderno(k){const ids=new Set(st(k).erros);const qs=etapas(k).flatMap(e=>e.questoes.map((q,j)=>({q,id:`${e.n}.${j}`}))).filter(x=>ids.has(x.id));if(!qs.length)return trilha(k);sessao={k,modo:'caderno',titulo:'📒 Caderno de erros',qs:embaralha(qs),pos:0,ok:0,log:[]};questao()}
+
+const ROTULO={ce:'Certo ou Errado',me:'Múltipla escolha',lacuna:'Complete a lacuna',associar:'Associe as colunas',caso:'Caso prático'};
+let respondida=false;
+function questao(){
+ const s=sessao,{q}=s.qs[s.pos];respondida=false;
+ let corpo='',atalho='';
+ if(q.tipo==='ce'){corpo=`<p class="enun">${esc(q.enunciado)}</p><div class="ops ce"><button class="op" type="button" data-v="C"><span class="k">C</span>CERTO</button><button class="op" type="button" data-v="E"><span class="k">E</span>ERRADO</button></div>`;atalho='Teclas: C = certo · E = errado · Enter = próxima'}
+ else if(q.tipo==='me'){corpo=`<p class="enun">${esc(q.enunciado)}</p><div class="ops">${q.alternativas.map((a,j)=>`<button class="op" type="button" data-i="${j}"><span class="k">${'ABCDE'[j]}</span><span>${esc(a)}</span></button>`).join('')}</div>`;atalho='Teclas: A a E · Enter = próxima'}
+ else if(q.tipo==='lacuna'){const p=esc(q.enunciado).replace('___','<span class="lac" id="lac">______</span>');corpo=`<p class="enun">${p}</p><div class="ops">${q.opcoes.map((a,j)=>`<button class="op" type="button" data-i="${j}"><span class="k">${j+1}</span><span>${esc(a)}</span></button>`).join('')}</div>`;atalho='Teclas: 1 a 4 · Enter = próxima'}
+ else if(q.tipo==='associar'){const b=embaralha(q.pares.map(p=>p[1]));s.colB=b;corpo=`<p class="enun">${esc(q.enunciado)}</p><div class="assoc">${q.pares.map((p,j)=>`<div class="par" id="par${j}"><span>${esc(p[0])}</span><select id="sel${j}" aria-label="Associe: ${esc(p[0])}"><option value="">— escolha —</option>${b.map((x,m)=>`<option value="${m}">${esc(x)}</option>`).join('')}</select></div>`).join('')}</div><div class="linha"><button class="btn" type="button" id="conferir">Conferir associação</button></div>`}
+ else{corpo=`<p class="enun">${esc(q.enunciado)}</p><p class="pergunta">❓ ${esc(q.pergunta)}</p><label class="mini" for="resp">Escreva sua resposta (opcional, só para você):</label><textarea id="resp" placeholder="Responda com suas palavras antes de ver a resposta-modelo…"></textarea><div class="linha"><button class="btn" type="button" id="verModelo">Ver resposta-modelo</button></div>`}
+ $('tela').innerHTML=`<button class="voltar" type="button" onclick="sair()">← Sair (o progresso desta rodada não é salvo)</button>
+ <div class="prog"><span>${esc(s.titulo)}</span><div class="barra"><i style="width:${s.pos/s.qs.length*100}%"></i></div><span>${s.pos+1}/${s.qs.length}</span></div>
+ <div class="card"><span class="tipo">${ROTULO[q.tipo]}</span>${corpo}<div id="fb"></div>
+ <div class="linha" id="navq" hidden><button class="btn" type="button" id="prox">${s.pos>=s.qs.length-1?'Ver resultado →':'Próxima →'}</button></div>
+ ${atalho?`<p class="atalhos">${atalho}</p>`:''}</div>`;
+ document.querySelectorAll('.op').forEach(b=>b.onclick=()=>responder(b));
+ if($('conferir'))$('conferir').onclick=conferirAssoc;
+ if($('verModelo'))$('verModelo').onclick=verModelo;
+ $('prox').onclick=proxima;
+}
+function fim(ok,html,neutro){
+ const s=sessao,{q,id}=s.qs[s.pos];respondida=true;
+ if(ok!==null){s.log.push({id,ok});if(ok)s.ok++;const x=st(s.k);x.erros=x.erros.filter(e=>e!==id);if(!ok)x.erros.push(id);salvar()}
+ $('fb').innerHTML=`<div class="fb ${neutro?'neutro':ok?'ok':'no'}" role="status">${html}${q.comentario?`<p>${esc(q.comentario)}</p>`:''}${q.base?`<span class="base">📖 ${esc(q.base)}</span>`:''}</div>`;
+ $('navq').hidden=false;$('prox').focus({preventScroll:true});$('fb').scrollIntoView({block:'nearest',behavior:'smooth'});
+}
+function responder(b){
+ if(respondida)return;const{q}=sessao.qs[sessao.pos];const bs=[...document.querySelectorAll('.op')];bs.forEach(x=>x.disabled=true);
+ if(q.tipo==='ce'){const ok=b.dataset.v===q.gabarito;bs.forEach(x=>x.classList.add(x.dataset.v===q.gabarito?'certa':x===b?'errada':'apaga'));return fim(ok,`<span class="veredito">${ok?'✓ Acertou!':'✕ Errou.'} Gabarito: ${q.gabarito==='C'?'CERTO':'ERRADO'}</span>`)}
+ const i=+b.dataset.i,ok=i===q.correta;bs.forEach((x,j)=>x.classList.add(j===q.correta?'certa':x===b?'errada':'apaga'));
+ if(q.tipo==='lacuna'){$('lac').textContent=q.opcoes[q.correta]}
+ fim(ok,`<span class="veredito">${ok?'✓ Acertou!':'✕ Errou.'} Resposta: ${q.tipo==='me'?'ABCDE'[q.correta]+') ':''}${esc((q.alternativas||q.opcoes)[q.correta])}</span>`);
+}
+function conferirAssoc(){
+ if(respondida)return;const s=sessao,{q}=s.qs[s.pos];let certos=0;
+ q.pares.forEach((p,j)=>{const sel=$('sel'+j),v=sel.value,ok=v!==''&&s.colB[+v]===p[1];if(ok)certos++;sel.disabled=true;const el=$('par'+j);el.classList.add(ok?'certa':'errada');if(!ok)el.insertAdjacentHTML('beforeend',`<span class="gab">✓ ${esc(p[1])}</span>`)});
+ $('conferir').disabled=true;const ok=certos===q.pares.length;
+ fim(ok,`<span class="veredito">${ok?'✓ Tudo certo!':`✕ ${certos} de ${q.pares.length} pares corretos.`}</span>`);
+}
+function verModelo(){
+ if(respondida)return;const{q}=sessao.qs[sessao.pos];$('verModelo').disabled=true;
+ $('fb').innerHTML=`<div class="fb neutro"><span class="veredito">Resposta-modelo</span><p>${esc(q.resposta)}</p><p style="margin-top:.6rem"><b>Sua resposta tinha estes pontos?</b></p><ul class="check">${q.checklist.map((c,j)=>`<li><label><input type="checkbox" id="ck${j}"> ${esc(c)}</label></li>`).join('')}</ul>
+ <div class="auto"><button class="btn sim" type="button" onclick="auto(true)">✓ Acertei</button><button class="btn nao" type="button" onclick="auto(false)">✕ Errei ou faltou ponto importante</button></div>${q.base?`<span class="base">📖 ${esc(q.base)}</span>`:''}</div>`;
+}
+function auto(ok){if(respondida)return;const{q}=sessao.qs[sessao.pos];const marcados=q.checklist.filter((_,j)=>$('ck'+j)&&$('ck'+j).checked).length;
+ const html=$('fb').querySelector('.fb').innerHTML.replace(/<div class="auto">[\s\S]*?<\/div>/,'');respondida=false;
+ const s=sessao,{id}=s.qs[s.pos];respondida=true;s.log.push({id,ok});if(ok)s.ok++;const x=st(s.k);x.erros=x.erros.filter(e=>e!==id);if(!ok)x.erros.push(id);salvar();
+ $('fb').innerHTML=`<div class="fb ${ok?'ok':'no'}">${html}<p><b>${ok?'✓ Marcado como acerto':'✕ Vai para o caderno de erros'}</b> · ${marcados} de ${q.checklist.length} pontos marcados.</p></div>`;
+ document.querySelectorAll('.check input').forEach(c=>c.disabled=true);$('navq').hidden=false;$('prox').focus({preventScroll:true});
+}
+function proxima(){if(!respondida)return;if(sessao.pos>=sessao.qs.length-1)return resultado();sessao.pos++;questao();window.scrollTo(0,0)}
+function sair(){const k=sessao.k;sessao=null;trilha(k)}
+function resultado(){
+ const s=sessao,n=s.qs.length,taxa=n?s.ok/n:0,x=st(s.k);let msg='',acoes='';
+ if(s.modo==='etapa'){const e=etapas(s.k)[s.i];const antes=x.melhor[e.n]||0;x.melhor[e.n]=Math.max(antes,taxa);salvar();
+  const prox=etapas(s.k)[s.i+1];
+  msg=taxa>=META?`🎉 Etapa concluída! ${prox?`A etapa ${prox.n} está liberada.`:'Você concluiu todas as etapas: o Desafio final está liberado.'}`:`Faltou pouco: a meta é 70%. Revise o relâmpago e tente de novo — os erros já estão no seu caderno.`;
+  acoes=(taxa>=META&&prox?`<button class="btn" type="button" onclick="ir('etapa','${s.k}',${s.i+1})">Ir para a etapa ${prox.n} →</button>`:'')+`<button class="btn ${taxa>=META?'sec':''}" type="button" onclick="ir('etapa','${s.k}',${s.i})">Refazer esta etapa</button>`}
+ else msg=s.modo==='desafio'?(taxa>=.8?'🏆 Excelente! Domínio da trilha.':'Bom treino. Use o caderno de erros para fechar as lacunas.'):'Os acertos saíram do caderno; os erros continuam lá para a próxima rodada.';
+ const erros=s.log.filter(l=>!l.ok).map(l=>s.qs.find(q=>q.id===l.id)).filter(Boolean);
+ $('tela').innerHTML=`<button class="voltar" type="button" onclick="ir('trilha','${s.k}')">← ${esc(T[s.k].nome)}</button>
+ <div class="card"><div class="kicker" style="color:var(--gold)">${esc(s.titulo)}</div><h1>${pct(taxa)} de acerto</h1><p>${msg}</p>
+ <div class="placar"><div><b style="color:var(--ok)">${s.ok}</b><span>acertos</span></div><div><b style="color:var(--no)">${n-s.ok}</b><span>erros</span></div><div><b>${n}</b><span>questões</span></div></div>
+ ${erros.length?`<h2 style="font-size:1.1rem">Para revisar</h2><div class="erros">${erros.map(({q})=>`<div class="erro"><small>${ROTULO[q.tipo]}</small>${esc(q.enunciado)}${q.base?`<br><small>📖 ${esc(q.base)}</small>`:''}</div>`).join('')}</div>`:''}
+ <div class="linha">${acoes}<button class="btn sec" type="button" onclick="ir('trilha','${s.k}')">Voltar à trilha</button></div></div>`;
+ sessao=null;
+}
+document.addEventListener('keydown',ev=>{
+ if(!sessao||ev.ctrlKey||ev.metaKey||ev.altKey||/^(INPUT|TEXTAREA|SELECT)$/.test(ev.target.tagName))return;
+ const k=ev.key.toLowerCase(),{q}=sessao.qs[sessao.pos];
+ if(respondida){if(k==='enter'||k==='arrowright'){ev.preventDefault();proxima()}return}
+ let alvo=null;
+ if(q.tipo==='ce'&&(k==='c'||k==='e'))alvo=document.querySelector(`.op[data-v="${k.toUpperCase()}"]`);
+ else if(q.tipo==='me'&&'abcde'.includes(k)&&k.length===1)alvo=document.querySelector(`.op[data-i="${'abcde'.indexOf(k)}"]`);
+ else if(q.tipo==='lacuna'&&'1234'.includes(k)&&k.length===1)alvo=document.querySelector(`.op[data-i="${+k-1}"]`);
+ if(alvo){ev.preventDefault();responder(alvo)}
+});
+aplicarPrefs();inicio();
+</script>
+</body>
+</html>

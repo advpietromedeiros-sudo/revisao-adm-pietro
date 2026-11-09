@@ -1,0 +1,154 @@
+{
+ "trilha": "RC",
+ "n": 7,
+ "titulo": "Atos legislativos e judiciais",
+ "objetivo": "Aplicar a regra da irresponsabilidade por atos legislativos e jurisdicionais típicos e reconhecer, com precisão, cada uma das exceções.",
+ "relampago": [
+  "Regra: lei e decisão judicial típicas não geram indenização — a lei é geral e abstrata, e a sentença se corrige por recurso.",
+  "Função atípica é outra conversa: o ato administrativo da Câmara ou do Fórum segue o art. 37, § 6º, com responsabilidade objetiva.",
+  "Três portas no Legislativo: lei de efeitos concretos, omissão legislativa desarrazoada e dano concreto da aplicação de lei declarada inconstitucional.",
+  "Na lei inconstitucional, indeniza-se o dano do ato de aplicação — não a lei em si.",
+  "No Judiciário: erro judiciário penal e prisão além do tempo da sentença (CF, art. 5º, LXXV), com responsabilidade objetiva.",
+  "Juiz com dolo ou fraude responde civil e regressivamente (CPC, art. 143): a vítima aciona o Estado, que depois cobra do magistrado.",
+  "Fala do parlamentar coberta pela imunidade material não gera responsabilidade objetiva do Estado; fora dela, responde o parlamentar, pessoal e subjetivamente (Tema 950)."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "Em regra, não há responsabilidade civil do Estado por atos legislativos e jurisdicionais típicos: a lei é geral e abstrata, e a decisão judicial tem seus próprios mecanismos de correção.",
+   "gabarito": "C",
+   "comentario": "Essa é a regra da irresponsabilidade: a lei atinge todos igualmente, sem dano específico, e a decisão judicial se corrige pelos recursos. As exceções existem, mas são portas estreitas e expressas.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Para a doutrina clássica, os atos administrativos praticados pelo Legislativo e pelo Judiciário só geram responsabilidade do Estado quando provada culpa.",
+   "gabarito": "E",
+   "comentario": "Quando esses Poderes exercem função administrativa (atípica), submetem-se à regra comum do art. 37, § 6º. A responsabilidade é objetiva, sem discussão de dolo ou culpa, como ocorre com qualquer órgão do Executivo.",
+   "base": "CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Quem sofre lesão efetiva com a aplicação de lei depois declarada inconstitucional pode buscar indenização, sendo o dano concreto da aplicação, e não a lei em si, o que gera o dever de indenizar.",
+   "gabarito": "C",
+   "comentario": "A banca costuma inverter esse ponto, dizendo que a lei é a causa direta. Não é: o que se indeniza é o dano concreto produzido pelo ato que aplicou a lei inconstitucional.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O art. 5º, LXXV, da CF garante indenização ao condenado por erro judiciário, mas não ao que ficar preso além do tempo fixado na sentença, hipótese que depende de prova de culpa do juiz.",
+   "gabarito": "E",
+   "comentario": "O mesmo inciso protege as duas situações: o condenado por erro judiciário e quem fica preso além do tempo fixado. É hipótese de responsabilidade objetiva, sem exigência de culpa do magistrado.",
+   "base": "CF, art. 5º, LXXV"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pelo CPC, o juiz responde civil e regressivamente por perdas e danos quando, no exercício de suas funções, procede com dolo ou fraude.",
+   "gabarito": "C",
+   "comentario": "É a hipótese do art. 143, I, do CPC. 'Regressivamente' significa que, pela dupla garantia, a vítima demanda o Estado, que depois se volta contra o magistrado.",
+   "base": "CPC, art. 143, I"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A responsabilidade do juiz que retarda, sem justo motivo, providência que deva ordenar só se verifica depois que a parte a requer e o requerimento não é apreciado em 30 dias.",
+   "gabarito": "E",
+   "comentario": "O prazo do parágrafo único do art. 143 do CPC é de 10 dias, e não de 30. Só depois do requerimento não apreciado nesse prazo se configura a hipótese do inciso II.",
+   "base": "CPC, art. 143, II e parágrafo único"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Leis de ___ só têm forma de lei: na substância são atos administrativos, porque têm destinatário certo ou poucos destinatários determinados.",
+   "opcoes": [
+    "eficácia limitada",
+    "caráter interpretativo",
+    "efeitos concretos",
+    "iniciativa privativa"
+   ],
+   "correta": 2,
+   "comentario": "Exemplo clássico: a lei que declara de utilidade pública, para desapropriação, o terreno de uma única família. Por ser materialmente ato administrativo, pode gerar indenização.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Opiniões, palavras e votos cobertos pela imunidade material não geram responsabilidade objetiva do Estado; fora da imunidade, a responsabilidade é pessoal e ___ do parlamentar.",
+   "opcoes": [
+    "objetiva",
+    "subjetiva",
+    "solidária com o ente",
+    "integral"
+   ],
+   "correta": 1,
+   "comentario": "No Tema 950, a imunidade material funciona como excludente da responsabilidade objetiva do Estado. Fora dela, quem responde é o próprio parlamentar, e com base em culpa ou dolo.",
+   "base": "STF, Tema 950 (RE 632.115)"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Assinale a situação que NÃO configura exceção à regra da irresponsabilidade por atos legislativos.",
+   "alternativas": [
+    "Lei que declara de utilidade pública o terreno de uma única família.",
+    "Inércia desarrazoada em editar lei exigida pela Constituição.",
+    "Dano concreto decorrente da aplicação de lei depois declarada inconstitucional.",
+    "Edição de lei geral, abstrata e constitucional que atinge igualmente toda a coletividade.",
+    "Lei de efeitos concretos com poucos destinatários determinados."
+   ],
+   "correta": 3,
+   "comentario": "Lei geral, abstrata e constitucional é o núcleo da regra: atinge todos igualmente e não produz dano específico. As demais alternativas descrevem as três portas — efeitos concretos, omissão legislativa desarrazoada e lei inconstitucional aplicada.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um juiz, agindo com fraude, profere decisão que causa prejuízo à parte. Qual é o caminho correto para a vítima?",
+   "alternativas": [
+    "Ação direta apenas contra o juiz, que responde objetivamente.",
+    "Ação contra o Estado, que poderá depois se voltar regressivamente contra o magistrado.",
+    "Nenhuma: ato jurisdicional nunca gera indenização.",
+    "Apenas a interposição de recurso, sem reparação civil.",
+    "Ação obrigatória em litisconsórcio contra o Estado e o juiz."
+   ],
+   "correta": 1,
+   "comentario": "O art. 143 do CPC prevê que o juiz responde 'civil e regressivamente'. Pela dupla garantia, a vítima aciona o Estado, que depois cobra do magistrado que agiu com dolo ou fraude.",
+   "base": "CPC, art. 143; STF, Tema 940"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada situação ao tratamento que recebe.",
+   "pares": [
+    [
+     "Motorista da Câmara Municipal bate o carro oficial",
+     "Função atípica: responsabilidade objetiva do art. 37, § 6º"
+    ],
+    [
+     "Condenado absolvido em revisão criminal após cumprir pena",
+     "Erro judiciário: responsabilidade objetiva (CF, art. 5º, LXXV)"
+    ],
+    [
+     "Voto de parlamentar coberto pela imunidade material",
+     "Não gera responsabilidade objetiva do Estado (Tema 950)"
+    ],
+    [
+     "Juiz que decide com dolo ou fraude",
+     "Responde civil e regressivamente (CPC, art. 143)"
+    ],
+    [
+     "Lei geral e abstrata que atinge todos igualmente",
+     "Regra: não há dever de indenizar"
+    ]
+   ],
+   "comentario": "A chave é separar função típica de atípica e conhecer as portas de exceção. Ato administrativo de qualquer Poder segue o art. 37, § 6º; erro judiciário tem base constitucional própria; o juiz só responde pessoalmente, em regresso, por dolo, fraude ou retardamento injustificado.",
+   "base": "CF, arts. 5º, LXXV, e 37, § 6º; CPC, art. 143"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Carlos foi condenado por roubo e cumpriu quatro anos de pena. Depois, nova prova revelou que ele estava em outra cidade no dia do crime, e Carlos foi absolvido em revisão criminal. Ele quer indenização. Ao consultar um advogado, ouve que 'decisão judicial não gera responsabilidade do Estado' e que seria preciso provar que o juiz agiu com culpa.",
+   "pergunta": "Cabe indenização? Contra quem, em que regime, e o que acontece com o juiz?",
+   "resposta": "Cabe. A regra da irresponsabilidade por atos jurisdicionais típicos tem exceção expressa no art. 5º, LXXV, da CF: o Estado indenizará o condenado por erro judiciário (e também quem ficar preso além do tempo da sentença). Trata-se de responsabilidade objetiva, de modo que Carlos não precisa provar culpa do juiz. A ação é proposta contra o Estado (a pessoa jurídica), e não contra o magistrado. O juiz só responderia, em regresso, se tivesse agido com dolo ou fraude (CPC, art. 143), o que não se presume do simples erro.",
+   "checklist": [
+    "Exceção à irresponsabilidade: erro judiciário (CF, art. 5º, LXXV)",
+    "Responsabilidade objetiva, sem prova de culpa",
+    "Ação contra o Estado, não contra o juiz",
+    "Regresso contra o juiz só com dolo ou fraude (CPC, art. 143)"
+   ],
+   "base": "CF, art. 5º, LXXV; CPC, art. 143"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "trilha": "RC",
+ "n": 4,
+ "titulo": "Concessionárias no banco dos réus",
+ "objetivo": "Separar o risco que integra o serviço concedido do evento estranho a ele e aplicar os precedentes sobre pátio, posto de apoio, animal na pista, reservatório e ferrovias.",
+ "relampago": [
+  "A regra é a responsabilidade objetiva da concessionária; a fiscalização do poder concedente não exclui nem atenua essa responsabilidade.",
+  "Pergunta-chave: o evento está dentro do risco que o serviço deveria controlar? Fortuito interno não exonera; fortuito externo pode romper o nexo.",
+  "Caminhão furtado no pátio da balança: responde, pois assumiu a custódia. Roubo armado no posto de apoio: não responde, é fato de terceiro equiparável à força maior.",
+  "Tema 1.122: animal doméstico na pista gera responsabilidade sem culpa, sem precisar identificar o dono.",
+  "Cadáver no reservatório: falha de vigilância e dano moral in re ipsa ao consumidor.",
+  "Ferrovias: responsabilidade quase constante, salvo culpa exclusiva cabal (Tema 517); com imprudência da vítima, dano moral pela metade (Tema 518)."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A concessionária de rodovia responde pelo furto de caminhão que ela própria mandou estacionar no pátio da balança para a lavratura de autuação por excesso de peso.",
+   "gabarito": "C",
+   "comentario": "Certo. Ao determinar que o veículo ficasse no pátio, a concessionária assumiu a custódia dele. O furto revela omissão no dever de vigilância e falha na organização do serviço, segundo o STF.",
+   "base": "STF, RE 598.356 (Info 901)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo o STJ, a concessionária responde pelo roubo à mão armada sofrido por usuários em posto de apoio mantido por ela às margens da rodovia, por se tratar de fortuito interno.",
+   "gabarito": "E",
+   "comentario": "Errado. O STJ tratou o roubo armado como fato de terceiro equiparável à força maior, inevitável e irresistível. O dever de segurança da concessionária liga-se à conservação e à sinalização da via; ela não faz segurança pública.",
+   "base": "STJ, REsp 1.749.941 (Info 640)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pelo Tema 1.122 do STJ, a concessionária só responde por acidente causado por animal doméstico na pista se o dono do animal não for identificado.",
+   "gabarito": "E",
+   "comentario": "Errado. A responsabilidade da concessionária independe de culpa, da identificação do dono do animal e da fiscalização pública. Fiscalização, sinalização e remoção de animais integram o risco do serviço concedido.",
+   "base": "STJ, Tema 1.122 (Info 822)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "No caso do cadáver em decomposição encontrado em reservatório que abastecia a cidade, o STJ reconheceu dano moral ao consumidor sem exigir prova do abalo sofrido.",
+   "gabarito": "C",
+   "comentario": "Certo. O dano moral foi tratado como in re ipsa, presumido pela própria gravidade do fato. A concessionária falhou no dever de vigilância do reservatório e não garantiu a qualidade da água fornecida.",
+   "base": "STJ, Info 553"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pelo Tema 517 do STJ, a responsabilidade da concessionária ferroviária pelo descumprimento do dever de segurança e vigilância das vias é uma constante, afastada apenas quando cabalmente comprovada a culpa exclusiva da vítima.",
+   "gabarito": "C",
+   "comentario": "Certo. A ferrovia tem dever contínuo de cercar, vigiar e fiscalizar a linha. Só a prova cabal de que a vítima produziu sozinha o dano rompe o nexo; a mera imprudência dela leva, no máximo, à concorrência de causas.",
+   "base": "STJ, Tema 517"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Quando a concessionária deixa de cercar a linha férrea em área urbana e a vítima atravessa a via em local inapropriado, há concorrência de causas e o dano moral é reduzido ___.",
+   "opcoes": [
+    "a um terço",
+    "pela metade",
+    "a zero",
+    "a dois terços"
+   ],
+   "correta": 1,
+   "comentario": "O Tema 518 reconhece que as duas condutas contribuíram: a omissão da concessionária no dever de cercar e fiscalizar e a imprudência da vítima. A solução é dividir: indenização por dano moral pela metade.",
+   "base": "STJ, Tema 518"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O evento ligado ao próprio risco da atividade, que em regra não exclui a responsabilidade da concessionária, chama-se fortuito ___.",
+   "opcoes": [
+    "externo",
+    "absoluto",
+    "interno",
+    "relativo"
+   ],
+   "correta": 2,
+   "comentario": "Fortuito interno integra o risco que o serviço deveria controlar e não exonera. O fortuito externo é totalmente estranho ao serviço e pode romper o nexo, como o roubo armado no posto de apoio.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um motorista que paga pedágio bate, à noite, num cavalo solto na pista de rodovia concedida. Segundo o STJ, assinale a correta.",
+   "alternativas": [
+    "Ele deve primeiro identificar o dono do cavalo, único responsável pelo animal.",
+    "A concessionária só responde se ficar provada culpa de seus fiscais.",
+    "O caso é fato exclusivo de terceiro, que sempre rompe o nexo.",
+    "A concessionária responde independentemente de culpa, com aplicação do CDC e da Lei de Concessões.",
+    "Só o poder concedente responde, por falha de fiscalização da rodovia."
+   ],
+   "correta": 3,
+   "comentario": "No Tema 1.122, o STJ afirmou a responsabilidade da concessionária sem culpa e sem necessidade de identificar o dono. A presença previsível de animal doméstico na pista não é evento estranho ao serviço, pois prevenção e remoção integram os deveres da concessionária.",
+   "base": "STJ, Tema 1.122 (Info 822); Lei nº 8.987/1995"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Qual pergunta melhor resume o critério que separa os casos em que a concessionária responde daqueles em que não responde?",
+   "alternativas": [
+    "O evento está dentro do risco que o serviço deveria controlar?",
+    "O dano ocorreu dentro da faixa de domínio da rodovia?",
+    "A vítima pagou tarifa ou pedágio naquele dia?",
+    "O autor do dano foi identificado e processado criminalmente?",
+    "O poder concedente fiscalizou a concessionária no período?"
+   ],
+   "correta": 0,
+   "comentario": "A chave é a exterioridade do fato em relação ao risco do serviço. Guardar o caminhão que ela mandou parar está dentro desse risco; impedir assalto à mão armada ao longo da estrada, não. A fiscalização do poder concedente não exclui nem atenua a responsabilidade da concessionária.",
+   "base": "Doutrina; Lei nº 8.987/1995, art. 25"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada caso de concessionária ao resultado firmado na jurisprudência.",
+   "pares": [
+    [
+     "Caminhão furtado no pátio da balança",
+     "Responde: assumiu a custódia do veículo"
+    ],
+    [
+     "Roubo armado em posto de apoio",
+     "Não responde: fato de terceiro equiparável à força maior"
+    ],
+    [
+     "Animal doméstico na pista (Tema 1.122)",
+     "Responde independentemente de culpa"
+    ],
+    [
+     "Pedestre atravessa linha férrea sem cerca (Tema 518)",
+     "Concorrência de causas, dano moral pela metade"
+    ],
+    [
+     "Cadáver no reservatório de água",
+     "Responde por dano moral in re ipsa"
+    ]
+   ],
+   "comentario": "Os cinco casos aplicam o mesmo filtro: o evento integra ou não o risco que o serviço deveria controlar. Quando integra, a concessionária responde; quando é totalmente estranho, há excludente; quando vítima e concessionária contribuem, divide-se a indenização.",
+   "base": "STF, RE 598.356; STJ, REsp 1.749.941, Temas 518 e 1.122, Info 553"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Em um bairro populoso, a linha férrea concedida não tem muro nem fiscalização. Joana, com pressa, atravessa os trilhos longe da passagem de nível e é atingida por um trem, sofrendo lesões graves. Na ação, a concessionária alega culpa exclusiva da vítima, por ter atravessado em local proibido.",
+   "pergunta": "A alegação da concessionária deve ser acolhida? Qual o regime de responsabilidade e o efeito da conduta de Joana sobre a indenização por dano moral?",
+   "resposta": "A alegação não deve ser acolhida integralmente. Pelo Tema 517 do STJ, diante do descumprimento do dever de segurança e vigilância contínua das vias férreas, a responsabilidade da concessionária é uma constante, só afastada com prova cabal de culpa exclusiva da vítima, o que não ocorre aqui, pois faltava cerca em área urbana. A conduta imprudente de Joana, porém, também contribuiu para o dano. Aplica-se o Tema 518: há concorrência de causas, e a indenização por dano moral é reduzida pela metade.",
+   "checklist": [
+    "Responsabilidade objetiva da concessionária ferroviária (Tema 517)",
+    "Culpa exclusiva exige prova cabal e não se configura sem cerca em área urbana",
+    "Concorrência de causas pelo Tema 518",
+    "Dano moral reduzido pela metade"
+   ],
+   "base": "STJ, Temas 517 e 518"
+  }
+ ]
+}

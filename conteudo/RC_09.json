@@ -1,0 +1,154 @@
+{
+ "trilha": "RC",
+ "n": 9,
+ "titulo": "Precedentes de fronteira e Lei nº 14.133/2021",
+ "objetivo": "Ler o verbo de cada tese recente e resolver os casos de fronteira, inclusive os pontos de contato com contratos administrativos.",
+ "relampago": [
+  "Tema 1.237: em operação policial, perícia inconclusiva sobre o disparo não afasta a responsabilidade; cabe ao Estado provar a excludente.",
+  "Tema 1.055: jornalista ferido — responsabilidade objetiva, com culpa exclusiva se descumprida advertência ostensiva sobre área de grave risco. RE 1.467.145: não se exige prova de 'terceiro inocente'.",
+  "Tema 366: fogos clandestinos — o Estado responde só se violou dever específico (licença sem cautelas ou ciência de irregularidade sem agir).",
+  "Policial de folga por motivo estritamente pessoal, com arma da corporação: sem nexo funcional, sem responsabilidade estatal (RE 363.423); se age como policial, o art. 37, § 6º pode incidir.",
+  "Lei nº 14.133: art. 117, § 4º, I (terceiro de apoio ao fiscal responde objetivamente); art. 120 (responsabilidade direta do contratado, que a fiscalização não reduz, sem o adjetivo 'subjetiva').",
+  "Desfazimento tem três portas: revogação da licitação (art. 71), extinção por culpa da Administração (art. 138, § 2º) e nulidade (arts. 147 a 149).",
+  "Fato do empreiteiro (falha da empresa) × fato da obra (dano inerente ao projeto público); LINDB, art. 28: responsabilidade pessoal só por dolo ou erro grosseiro."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "Pelo Tema 1.237, em operação de segurança pública, a perícia inconclusiva sobre a origem do disparo, por si só, não afasta a responsabilidade do Estado, a quem cabe demonstrar causa excludente.",
+   "gabarito": "C",
+   "comentario": "A operação criou o contexto causal, e a inconclusão pericial é mero indício. O ônus de provar a excludente recai sobre o ente federativo, não sobre a vítima.",
+   "base": "STF, Tema 1.237"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "No Tema 1.055, o STF fixou que a responsabilidade do Estado pelo jornalista ferido em cobertura de manifestação é subjetiva, exigindo prova de culpa dos policiais.",
+   "gabarito": "E",
+   "comentario": "A tese é de responsabilidade objetiva. A exceção é a culpa exclusiva da vítima, quando o profissional descumpre advertência clara e ostensiva para não entrar em área delimitada de grave risco.",
+   "base": "STF, Tema 1.055"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "No RE 1.467.145 (Operação Centro Cívico), exigiu-se que a vítima provasse ser 'terceiro inocente' para obter indenização pelos danos causados pelos policiais.",
+   "gabarito": "E",
+   "comentario": "Ocorreu o contrário: o Estado do Paraná responde objetivamente pelos danos concretos diretamente causados por policiais, sem que se exija prova de 'terceiro inocente'.",
+   "base": "STF, RE 1.467.145"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pelo Tema 366, explosão em comércio clandestino de fogos gera responsabilidade estatal quando houver violação de dever específico, como licença concedida sem as cautelas legais ou conhecimento de irregularidades sem providência.",
+   "gabarito": "C",
+   "comentario": "O Tema 366 é exemplo de que nem toda omissão gera indenização automática. O Estado responde se licenciou sem cautela ou se sabia da irregularidade e não agiu.",
+   "base": "STF, Tema 366"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O art. 120 da Lei nº 14.133/2021 qualifica expressamente como subjetiva a responsabilidade do contratado pelos danos causados na execução do contrato.",
+   "gabarito": "E",
+   "comentario": "O art. 120 atribui responsabilidade direta e impede que a fiscalização a exclua ou reduza, mas não usa o adjetivo 'subjetiva'. A natureza depende do regime material incidente; quem usa o adjetivo 'objetiva' é o art. 117, § 4º, I.",
+   "base": "Lei nº 14.133/2021, arts. 117, § 4º, I, e 120"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pela LINDB, o agente público responde pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro, não bastando a mera divergência interpretativa razoável.",
+   "gabarito": "C",
+   "comentario": "A responsabilidade pessoal do parecerista e do decisor é excepcional. Erro grosseiro é o erro manifesto, evidente e inescusável, praticado com culpa grave, como define o Decreto nº 9.830/2019.",
+   "base": "LINDB, art. 28; Decreto nº 9.830/2019"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A empresa ou o profissional contratado para assistir e subsidiar o fiscal assume responsabilidade civil objetiva pela veracidade e precisão das informações, nos termos do art. ___ da Lei nº 14.133/2021.",
+   "opcoes": [
+    "233, § 4º, I",
+    "120",
+    "117, § 4º, I",
+    "103, § 5º"
+   ],
+   "correta": 2,
+   "comentario": "O dispositivo correto é o art. 117, § 4º, I; a referência ao art. 233 é erro de remissão que circula em materiais de estudo. Esse terceiro firma termo de confidencialidade e não pode exercer atribuição própria e exclusiva do fiscal.",
+   "base": "Lei nº 14.133/2021, art. 117, § 4º, I"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Rachadura inevitável em imóveis vizinhos, decorrente do próprio projeto definido pela Administração, caracteriza ___, que pode gerar responsabilidade direta do Estado.",
+   "opcoes": [
+    "fato do empreiteiro",
+    "fato da obra",
+    "fato do príncipe",
+    "culpa concorrente"
+   ],
+   "correta": 1,
+   "comentario": "Fato da obra é o dano inerente à concepção ou à execução regular determinada pela Administração. Já o guindaste mal operado é fato do empreiteiro, ligado à falha operacional da empresa.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Policial militar de folga, à paisana, presencia assalto a uma farmácia, identifica-se como policial e reage com a arma da corporação. Um disparo fere um cliente. A solução mais precisa é:",
+   "alternativas": [
+    "O Estado nunca responde por atos de agente de folga.",
+    "Só o policial responde, por ter agido fora do expediente.",
+    "Há risco integral, sem possibilidade de excludente.",
+    "Há forte nexo funcional, e o Estado pode responder objetivamente pelo dano ao terceiro inocente.",
+    "O Estado responde apenas se provado dolo do policial."
+   ],
+   "correta": 3,
+   "comentario": "Quem se identifica como policial e age com autoridade funcional procede como se estivesse em serviço, o que atrai o art. 37, § 6º. É o oposto do RE 363.423, em que o agente atirou por motivo estritamente pessoal e sem atuar nessa qualidade.",
+   "base": "CF, art. 37, § 6º; RE 363.423"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "O contrato é extinto por culpa exclusiva da Administração. Segundo a Lei nº 14.133/2021, o contratado tem direito a:",
+   "alternativas": [
+    "Lucros de todo o período restante, automaticamente.",
+    "Nada, porque a extinção é prerrogativa da Administração.",
+    "Apenas a devolução da garantia.",
+    "Indenização somente depois de ação regressiva contra o gestor.",
+    "Ressarcimento dos prejuízos regularmente comprovados, devolução da garantia, pagamentos devidos e custo de desmobilização."
+   ],
+   "correta": 4,
+   "comentario": "É o conteúdo do art. 138, § 2º. Não se confunde com a revogação da licitação (art. 71), em que o vencedor não tem direito automático aos lucros do contrato não celebrado.",
+   "base": "Lei nº 14.133/2021, art. 138, § 2º"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada dispositivo da Lei nº 14.133/2021 ao que ele disciplina.",
+   "pares": [
+    [
+     "Art. 103",
+     "Matriz de riscos: risco assumido não gera reequilíbrio, salvo exceções legais"
+    ],
+    [
+     "Art. 120",
+     "Responsabilidade direta do contratado, que a fiscalização não exclui nem reduz"
+    ],
+    [
+     "Art. 71",
+     "Revogação da licitação por interesse público superveniente"
+    ],
+    [
+     "Art. 138, § 2º",
+     "Extinção por culpa exclusiva da Administração"
+    ],
+    [
+     "Arts. 147 a 149",
+     "Nulidade: interesse público, eficácia diferida e indenização do executado"
+    ]
+   ],
+   "comentario": "Desfazimento tem três portas, cada uma com base e efeitos próprios: revogação, extinção e nulidade. A matriz do art. 103 só ressalva as alterações unilaterais e a variação de tributos diretamente pagos pelo contratado.",
+   "base": "Lei nº 14.133/2021, arts. 71, 103, 120, 138 e 147–149"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Em um sábado de folga, à paisana, o policial civil Rui discute por ciúmes com o ex-namorado de sua companheira num bar e atira nele com a pistola da corporação. Não se identifica como policial nem pratica ato de polícia. A vítima ajuíza ação apenas contra o Estado, sustentando que 'arma pública basta' para a responsabilidade objetiva.",
+   "pergunta": "O Estado responde? O que mudaria a resposta?",
+   "resposta": "Em regra, não. O art. 37, § 6º exige que o agente cause o dano 'nessa qualidade', ou seja, nexo funcional. No RE 363.423, o STF afastou a responsabilidade estatal porque o policial agiu por motivo estritamente pessoal e não atuava como agente público; a arma oficial, sozinha, não substitui esse nexo. A resposta mudaria se Rui tivesse se identificado como policial e agido com autoridade funcional, por exemplo reagindo a um crime: aí procederia como se estivesse em serviço, e o Estado poderia responder objetivamente pelo dano a terceiro. No quadro descrito, a vítima deve buscar a responsabilidade pessoal de Rui.",
+   "checklist": [
+    "Art. 37, § 6º exige atuação 'nessa qualidade' (nexo funcional)",
+    "RE 363.423: motivo estritamente privado afasta a responsabilidade estatal",
+    "Arma da corporação, sozinha, não basta",
+    "Variação: agir como policial na folga pode atrair a responsabilidade objetiva"
+   ],
+   "base": "CF, art. 37, § 6º; STF, RE 363.423"
+  }
+ ]
+}

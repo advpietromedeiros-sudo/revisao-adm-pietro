@@ -1,0 +1,159 @@
+{
+ "trilha": "SP",
+ "n": 3,
+ "titulo": "Princípios e o serviço adequado",
+ "objetivo": "Aplicar os oito requisitos do serviço adequado da Lei 8.987/1995 e relacioná-los com igualdade material, modicidade e mutabilidade.",
+ "relampago": [
+  "Serviço adequado (art. 6º, § 1º) reúne oito requisitos cumulativos: regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade das tarifas.",
+  "Atualidade (art. 6º, § 2º) é modernidade de técnicas e equipamentos, conservação, melhoria e expansão, não troca incessante de equipamentos.",
+  "Generalidade é cobertura ampla e não discriminatória, mas admite diferenciações justificadas por características técnicas e custos (art. 13).",
+  "Modicidade é tarifa acessível, não a menor imaginável: preço que inviabiliza segurança e expansão não atende ao serviço adequado.",
+  "Receitas acessórias, como publicidade em terminais, podem favorecer tarifas menores (art. 11).",
+  "Mutabilidade permite alterar o regime para atender ao interesse público, respeitados direitos e o equilíbrio econômico-financeiro; a Lei 13.460/2017 soma a ótica do usuário."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "O serviço adequado, nos termos da Lei 8.987/1995, depende apenas de que a prestação não sofra interrupção.",
+   "gabarito": "E",
+   "comentario": "A continuidade é só um dos oito requisitos do art. 6º, § 1º. O serviço também deve ser regular, eficiente, seguro, atual, geral, cortês e com tarifa módica. Um ônibus pontual com freios perigosos não presta serviço adequado.",
+   "base": "Lei 8.987/1995, art. 6º, § 1º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A atualidade do serviço compreende a modernidade das técnicas, do equipamento e das instalações, sua conservação e a melhoria e expansão do serviço.",
+   "gabarito": "C",
+   "comentario": "É o conteúdo do art. 6º, § 2º. Atualidade não significa trocar equipamentos o tempo todo, e sim adequação tecnológica e manutenção permanente. Modernizar a bilhetagem sem garantir acessibilidade melhora um parâmetro e falha em outro.",
+   "base": "Lei 8.987/1995, art. 6º, § 2º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O princípio da generalidade impõe tarifa idêntica para todos os usuários, mesmo diante de custos técnicos distintos de atendimento a segmentos diferentes.",
+   "gabarito": "E",
+   "comentario": "A generalidade busca cobertura ampla e atendimento não discriminatório, mas a lei admite tarifas diferenciadas em função das características técnicas e dos custos específicos de segmentos de usuários. Prioridades a idosos e pessoas com deficiência realizam, e não violam, a igualdade material.",
+   "base": "Lei 8.987/1995, art. 13"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A mutabilidade do regime permite ao poder concedente alterar padrões do serviço para atender ao interesse público, mas não autoriza desrespeitar o equilíbrio econômico-financeiro do contrato.",
+   "gabarito": "C",
+   "comentario": "A mutabilidade convive com a proteção de direitos: mudanças no regime e nos padrões são possíveis, com recomposição econômico-financeira quando cabível. Afirmar que ela autoriza ignorar o equilíbrio é pegadinha clássica.",
+   "base": "Lei 8.987/1995, art. 6º, § 1º; Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A exploração de lojas e de publicidade em terminais de ônibus, prevista contratualmente, gera receitas ___ que podem favorecer a modicidade das tarifas.",
+   "opcoes": [
+    "acessórias",
+    "tributárias",
+    "extraordinárias de imprevisão",
+    "compensatórias de encampação"
+   ],
+   "correta": 0,
+   "comentario": "O art. 11 da Lei 8.987/1995 admite fontes alternativas, complementares e acessórias de receita, previstas no edital. A finalidade é organizar o equilíbrio do contrato e aliviar a pressão sobre a tarifa paga pelo usuário.",
+   "base": "Lei 8.987/1995, art. 11"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O requisito da ___ exige prevenção de riscos de instalações, equipamentos e execução, como freios e pneus em bom estado nos ônibus.",
+   "opcoes": [
+    "modicidade",
+    "segurança",
+    "cortesia",
+    "generalidade"
+   ],
+   "correta": 1,
+   "comentario": "Segurança é prevenção de riscos na execução. Regularidade é cumprimento estável de padrões e horários; eficiência relaciona resultados e recursos; cortesia é urbanidade concreta no atendimento.",
+   "base": "Lei 8.987/1995, art. 6º, § 1º"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Uma linha de ônibus é pontual, confortável e barata, mas deixa de passar em um bairro periférico. Qual requisito do serviço adequado está mais diretamente comprometido?",
+   "alternativas": [
+    "Cortesia",
+    "Atualidade",
+    "Modicidade tarifária",
+    "Generalidade",
+    "Eficiência"
+   ],
+   "correta": 3,
+   "comentario": "A generalidade exige cobertura ampla e atendimento não discriminatório, com universalização progressiva conforme a previsão contratual. Excluir um bairro inteiro compromete esse requisito, ainda que a tarifa seja baixa e os veículos sejam bons.",
+   "base": "Lei 8.987/1995, art. 6º, § 1º"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Sobre a modicidade tarifária, assinale a alternativa correta.",
+   "alternativas": [
+    "Impõe a menor tarifa imaginável, ainda que isso comprometa a expansão do serviço.",
+    "Busca tarifa acessível, compatível com segurança, expansão e continuidade do serviço.",
+    "Proíbe qualquer receita da concessionária além da tarifa paga pelo usuário.",
+    "É requisito facultativo, aplicável apenas quando o contrato o prever expressamente.",
+    "Impede tarifas diferenciadas para segmentos de usuários com custos distintos."
+   ],
+   "correta": 1,
+   "comentario": "Modicidade é acessibilidade do preço, não o menor valor possível a qualquer custo. Tarifa artificialmente baixa pode gerar deterioração futura. Receitas acessórias são admitidas (art. 11), a diferenciação técnica é possível (art. 13) e os oito requisitos são cumulativos.",
+   "base": "Lei 8.987/1995, arts. 6º, 11 e 13"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada falha na prestação ao requisito do serviço adequado que ela viola com mais evidência.",
+   "pares": [
+    [
+     "Ônibus sucateados, sem cinto e com pneus desgastados",
+     "Segurança"
+    ],
+    [
+     "Ônibus que só para quando há passageiros conhecidos do motorista",
+     "Regularidade"
+    ],
+    [
+     "Motorista que humilha passageiro com mobilidade reduzida",
+     "Cortesia"
+    ],
+    [
+     "Aplicativo da concessionária inacessível para pessoas cegas",
+     "Generalidade"
+    ]
+   ],
+   "comentario": "Um mesmo fato pode ferir mais de um requisito: o ônibus seletivo também viola a generalidade, e o veículo sucateado também a atualidade. O exercício pede o requisito mais evidente em cada caso.",
+   "base": "Lei 8.987/1995, art. 6º, § 1º"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada dispositivo ao seu conteúdo.",
+   "pares": [
+    [
+     "Lei 8.987/1995, art. 6º, § 1º",
+     "Oito requisitos do serviço adequado"
+    ],
+    [
+     "Lei 8.987/1995, art. 11",
+     "Receitas alternativas, complementares e acessórias"
+    ],
+    [
+     "Lei 8.987/1995, art. 13",
+     "Tarifas diferenciadas por características técnicas e custos"
+    ],
+    [
+     "Lei 13.460/2017",
+     "Perspectiva do usuário: transparência, informação e avaliação"
+    ]
+   ],
+   "comentario": "O art. 6º define o serviço adequado; o art. 11 abre fontes de receita que ajudam a modicidade; o art. 13 compatibiliza tarifa com igualdade material. A Lei 13.460/2017 coloca o usuário no centro, com transparência e avaliação permanente.",
+   "base": "Lei 8.987/1995, arts. 6º, 11 e 13; Lei 13.460/2017"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "A concessionária de ônibus de uma capital moderniza a bilhetagem e passa a vender passagens apenas por aplicativo, que não funciona com leitores de tela. Para manter a tarifa baixa, deixa de renovar a frota, e vários veículos circulam com pneus gastos. Questionada, alega que o serviço é adequado porque nunca houve interrupção e porque a tarifa é a menor do país. Ao mesmo tempo, recusa a proposta da Prefeitura de explorar publicidade nos terminais.",
+   "pergunta": "O serviço é adequado? Identifique os requisitos violados e o instrumento que poderia aliviar a tarifa.",
+   "resposta": "Não. O serviço adequado exige o cumprimento cumulativo dos oito requisitos do art. 6º, § 1º, e não apenas a continuidade. O aplicativo inacessível compromete a generalidade e a igualdade material, e a modernização sem acessibilidade não satisfaz a atualidade. A frota com pneus gastos viola a segurança e a atualidade, que inclui conservação. A modicidade não significa a menor tarifa possível, mas preço acessível compatível com segurança e expansão. A publicidade nos terminais é receita acessória prevista no art. 11, que pode favorecer a modicidade sem sacrificar a qualidade.",
+   "checklist": [
+    "Requisitos do art. 6º, § 1º são cumulativos, não basta a continuidade",
+    "Violação de generalidade e segurança, com menção à atualidade",
+    "Modicidade como tarifa acessível e não mínima a qualquer custo",
+    "Receitas acessórias do art. 11 como meio de aliviar a tarifa"
+   ],
+   "base": "Lei 8.987/1995, arts. 6º e 11"
+  }
+ ]
+}

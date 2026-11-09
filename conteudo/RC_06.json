@@ -1,0 +1,157 @@
+{
+ "trilha": "RC",
+ "n": 6,
+ "titulo": "Omissões estatais e risco criado",
+ "objetivo": "Distinguir omissão genérica de específica, aplicar os quatro filtros do Estado garante e situar a divergência STJ × STF nos principais precedentes.",
+ "relampago": [
+  "Genérica × específica é roteiro, não fórmula cega: a resposta madura examina dever, possibilidade de agir e nexo.",
+  "Omissão genérica (furtos na cidade, enchentes, multidões): leitura subjetiva, pela culpa do serviço — serviço que não funcionou, funcionou tarde ou mal.",
+  "Omissão específica: o Estado é garante (preso, paciente internado, aluno em aula) e responde objetivamente, preservado o exame do nexo e das excludentes.",
+  "Quatro filtros do garante: dever jurídico, ciência do risco, possibilidade de agir e nexo (a atuação devida teria chance real de evitar o dano).",
+  "STJ e doutrina tradicional dizem subjetiva; o STF diz objetiva, porque o art. 37, § 6º não distingue ação de omissão — mas o nexo exige dever específico de agir.",
+  "Tema 365: preso em condição degradante é indenizado em dinheiro, sem reserva do possível. Tema 592: morte e suicídio de detento, salvo morte inevitável.",
+  "Súmula 652: omissão na fiscalização ambiental gera responsabilidade solidária, de execução subsidiária. Risco criado (CC, art. 927, p.ú.): presídios, delegacias, fóruns."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "Na leitura que concilia doutrina e STF, a incapacidade do Estado de impedir todos os furtos de veículos da cidade é omissão genérica, examinada pela culpa do serviço.",
+   "gabarito": "C",
+   "comentario": "Não há vítima previamente individualizada nem controle direto da fonte de risco: é dever geral perante a coletividade. Nesse campo, a prova trabalha com a leitura subjetiva, exigindo a falta do serviço (inexistente, tardio ou defeituoso).",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Para o STF, como o art. 37, § 6º não distingue ação de omissão, a responsabilidade por omissão é objetiva mesmo sem dever específico de agir para impedir o evento.",
+   "gabarito": "E",
+   "comentario": "O STF de fato afirma a responsabilidade objetiva também na omissão, mas o nexo só se forma quando havia dever legal específico de agir para impedir o evento. Sem esse dever, não há como imputar o dano ao Estado.",
+   "base": "STF, RE 677.139 AgR-EDv-AgR; ARE 897.890 AgR"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo o STF, a responsabilidade objetiva do Estado pela morte de detento, por inobservância do dever de proteção do art. 5º, XLIX, da CF, alcança também o suicídio.",
+   "gabarito": "C",
+   "comentario": "O Tema 592 assenta que o Estado responde pela morte do preso quando descumpre o dever específico de preservar sua integridade física e moral, o que inclui o suicídio. A exceção é a prova de que a morte não podia ser evitada.",
+   "base": "STF, Tema 592; CF, art. 5º, XLIX"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "No Tema 365, o STF fixou que a indenização ao preso mantido em condições degradantes deve ser paga preferencialmente por remição de pena.",
+   "gabarito": "E",
+   "comentario": "A proposta de indenizar com remição de pena ficou vencida. Prevaleceu a reparação em dinheiro, inclusive por danos morais, a cargo do ente responsável pela unidade prisional (o Estado-membro, ou a União no presídio federal).",
+   "base": "STF, Tema 365 (RE 580.252)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pela Súmula 652 do STJ, a responsabilidade da Administração por dano ambiental decorrente de omissão na fiscalização é solidária e de execução imediata, podendo o Estado ser cobrado antes do poluidor direto.",
+   "gabarito": "E",
+   "comentario": "A súmula diz que a responsabilidade é solidária, mas de execução subsidiária. O Estado é devedor-reserva: executa-se primeiro o poluidor direto, e o Estado só paga se ele não pagar, podendo depois cobrar dele.",
+   "base": "STJ, Súmula 652"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "No Tema 365, a ___ não serve de defesa ao Estado, porque não se trata de implementar direito prestacional, mas de reparar dano já causado com base em norma de eficácia plena.",
+   "opcoes": [
+    "reserva do possível",
+    "culpa exclusiva da vítima",
+    "força maior",
+    "separação de Poderes"
+   ],
+   "correta": 0,
+   "comentario": "A reserva do possível se discute quando se pede a implementação de direitos prestacionais, como saúde e educação. A indenização ao preso repara um dano consumado e se apoia no art. 37, § 6º, que tem eficácia plena.",
+   "base": "STF, Tema 365 (RE 580.252)"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Na omissão específica, o Estado ocupa a posição de ___: conhecia ou controlava o risco e tinha dever concreto e possibilidade de agir em favor de pessoa ou situação determinada.",
+   "opcoes": [
+    "devedor-reserva",
+    "litisconsorte facultativo",
+    "garante",
+    "fiador do serviço"
+   ],
+   "correta": 2,
+   "comentario": "Estado garante é aquele que assumiu a guarda ou o controle do risco, como na custódia prisional, no paciente internado e no aluno em aula. Devedor-reserva é a figura da Súmula 652, que trata da execução subsidiária no dano ambiental.",
+   "base": "Doutrina; STF, Temas 365 e 592"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Paciente internado em hospital público que não mantém nenhum serviço de vigilância é morto a tiros, de madrugada, por um desafeto que entrou no prédio. Segundo o STJ:",
+   "alternativas": [
+    "O fato de terceiro rompe o nexo, e o hospital não responde.",
+    "A responsabilidade é subjetiva e depende de prova de culpa individual do diretor.",
+    "O hospital responde objetivamente pela omissão, pois a ausência de segurança mínima contribuiu de forma determinante e específica para o crime.",
+    "Só o autor dos disparos pode ser demandado, por se tratar de crime doloso.",
+    "O Estado só responderia se o paciente estivesse sob custódia penal."
+   ],
+   "correta": 2,
+   "comentario": "O STJ entendeu que o hospital que não oferece o mínimo de segurança contribui de forma determinante e específica para o crime. Por isso responde objetivamente pela omissão, e a alegação de fato de terceiro é afastada.",
+   "base": "STJ, REsp 1.708.325 (Info 740)"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Caminhão cai em cratera de grande profundidade numa rodovia estadual sem manutenção nem sinalização, e o motorista morre. Sobre o julgado do STJ, assinale a correta.",
+   "alternativas": [
+    "Aplicou-se o risco integral, dispensado o exame do nexo.",
+    "Aplicou-se a leitura subjetiva (omissão culposa por falta de fiscalização e sinalização), com dever de indenizar e dependência econômica de cônjuge e filhos menores presumida.",
+    "Afastou-se a indenização por se tratar de omissão genérica.",
+    "Exigiu-se prova específica da dependência econômica dos filhos menores para a pensão.",
+    "Reconheceu-se culpa exclusiva da vítima por trafegar em via precária."
+   ],
+   "correta": 1,
+   "comentario": "O STJ tratou o caso como omissão culposa: o Estado deixou de conservar e sinalizar a via e, por isso, deve indenizar. Para a pensão, a dependência econômica do cônjuge e dos filhos menores é presumida e dispensa outra prova.",
+   "base": "STJ, REsp 1.709.727 (Info 733)"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada filtro do Estado garante à pergunta que ele faz no caso concreto.",
+   "pares": [
+    [
+     "Dever jurídico",
+     "Alguma norma ou relação de custódia obrigava o Estado a atuar?"
+    ],
+    [
+     "Ciência do risco",
+     "O perigo era conhecido ou podia ser conhecido concretamente?"
+    ],
+    [
+     "Possibilidade",
+     "Havia meio material de agir para evitar o dano?"
+    ],
+    [
+     "Nexo",
+     "A conduta devida teria chance real de impedir o resultado?"
+    ]
+   ],
+   "comentario": "Os quatro filtros evitam a aplicação mecânica de 'específica = objetiva'. Faltando qualquer um deles — por exemplo, se nenhuma atuação possível evitaria o resultado — o nexo pode ser afastado mesmo em situação de custódia.",
+   "base": "Doutrina; STF, Tema 592"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Réu em ação penal por violência doméstica entra armado no fórum, onde o controle de acesso era precário, e mata o advogado da vítima antes da audiência. Qual fundamento o STJ admite aplicar ao Estado?",
+   "alternativas": [
+    "CC, art. 927, parágrafo único: atividade que, por sua natureza, implica risco a outrem, sendo irrelevante se a conduta estatal foi comissiva ou omissiva.",
+    "CC, art. 935: a instância criminal vincula o cível.",
+    "LINDB, art. 28: responsabilidade pessoal por erro grosseiro.",
+    "CF, art. 5º, LXXV: indenização por erro judiciário.",
+    "Decreto nº 20.910/1932: regime especial da Fazenda Pública."
+   ],
+   "correta": 0,
+   "comentario": "É a teoria do risco criado: fóruns, presídios, delegacias e manicômios concentram pessoas investigadas ou condenadas, e o Estado responde pelo dano que decorre desse risco. O dano era evitável com controle de acesso; se os tiros ocorressem na calçada, o fato de terceiro excluiria a responsabilidade.",
+   "base": "CC, art. 927, parágrafo único; STJ"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Um detento com duas tentativas de suicídio registradas e comunicadas à direção do presídio estadual é colocado sozinho em cela de isolamento, sem rondas nem monitoramento. Dias depois, tira a própria vida. A família ajuíza ação contra o Estado. Na contestação, o Estado alega que o suicídio é ato voluntário da própria vítima e que a omissão estatal exigiria prova de culpa.",
+   "pergunta": "O Estado deve indenizar? Enfrente as duas teses da defesa.",
+   "resposta": "Sim. O preso está sob custódia, e o art. 5º, XLIX, da CF impõe ao Estado o dever específico de proteger sua integridade física e moral; trata-se de omissão específica, em que o Estado é garante. Pelo Tema 592, a responsabilidade é objetiva e alcança também o suicídio, de modo que não é preciso provar culpa. Os quatro filtros estão presentes: havia dever jurídico, o risco era conhecido (tentativas comunicadas), era possível agir (vigilância, rondas) e a atuação devida teria chance real de evitar a morte. A defesa só prosperaria se o Estado provasse que a morte era inevitável, hipótese que rompe o nexo, o que os fatos não indicam.",
+   "checklist": [
+    "Omissão específica: Estado garante pelo art. 5º, XLIX, da CF",
+    "Tema 592: responsabilidade objetiva que inclui o suicídio",
+    "Filtros: ciência do risco e possibilidade concreta de agir",
+    "Exceção: só a prova de morte inevitável rompe o nexo"
+   ],
+   "base": "STF, Tema 592; CF, art. 5º, XLIX"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "trilha": "SP",
+ "n": 1,
+ "titulo": "Conceito, natureza jurídica e delimitação do serviço público",
+ "objetivo": "Reconhecer um serviço público pela assunção jurídica da atividade pelo Estado e separá-lo de obra, poder de polícia e atividade econômica privada.",
+ "relampago": [
+  "O que faz um serviço ser público não é a utilidade social, e sim o fato de o ordenamento ter atribuído a atividade ao Poder Público.",
+  "Pergunta central: a atividade foi assumida pelo Estado, para execução direta ou delegada, ou é atividade privada apenas regulada e fiscalizada?",
+  "Três dimensões em conjunto: subjetiva (quem assume a incumbência), material (qual utilidade é prestada) e formal (que regime público incide).",
+  "Executor privado não tira o caráter público do serviço: a concessionária opera, mas a titularidade continua estatal.",
+  "Obra constrói, serviço presta utilidade, polícia condiciona e restringe, atividade econômica oferta bens no mercado.",
+  "Serviço público não é sinônimo de gratuidade: pode haver custeio orçamentário, taxa ou tarifa, conforme a Constituição e a lei."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "O elemento decisivo para caracterizar uma atividade como serviço público é a sua relevância social: se atende a uma necessidade essencial da população, é serviço público.",
+   "gabarito": "E",
+   "comentario": "A utilidade social, sozinha, não basta. O traço decisivo é a assunção jurídica da atividade pelo Poder Público, para execução direta ou delegada. Um comércio que entrega garrafões de água atende necessidade essencial e, mesmo assim, faz venda privada de produto.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Uma sociedade empresária privada pode executar serviço público sem que ele perca essa natureza, desde que a atividade tenha sido delegada e permaneça sob o regime público.",
+   "gabarito": "C",
+   "comentario": "A natureza do serviço não se confunde com a pessoa que o executa. A concessionária de água ou de transporte opera a atividade, mas o serviço continua público, sujeito a regulação, fiscalização e deveres de continuidade e adequação.",
+   "base": "CF, art. 175"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Uma escola particular autorizada e fiscalizada pelo Poder Público torna-se, por esse simples fato, concessionária do serviço público de educação.",
+   "gabarito": "E",
+   "comentario": "Autorização para funcionar e fiscalização não equivalem a concessão. A escola privada oferece ensino privado regulado, sem receber a titularidade do serviço público de educação. O mesmo raciocínio vale para a clínica particular que atende apenas pacientes próprios.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Na análise das três dimensões do serviço público, o elemento formal diz respeito à submissão da atividade a regras de direito público, como continuidade, igualdade de acesso, fiscalização e controle.",
+   "gabarito": "C",
+   "comentario": "O elemento subjetivo pergunta quem assume a incumbência; o material, qual utilidade concreta é prestada; o formal, que deveres e controles jurídicos incidem. O regime público acompanha a atividade mesmo quando a executora é empresa privada.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O elemento ___ do serviço público consiste na atividade prestacional concreta entregue à coletividade, e não na simples edição de ordens ou proibições.",
+   "opcoes": [
+    "material",
+    "subjetivo",
+    "formal",
+    "orgânico"
+   ],
+   "correta": 0,
+   "comentario": "O elemento material identifica a utilidade prestada, que pode ser individualizável (água no imóvel) ou geral (iluminação de vias). Editar ordens e proibições é próprio do poder de polícia, não da prestação de serviço.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Construir uma Unidade Básica de Saúde é ___; as consultas realizadas depois, pelo SUS, são serviço público de saúde.",
+   "opcoes": [
+    "serviço público impróprio",
+    "obra pública",
+    "poder de polícia",
+    "atividade econômica privada"
+   ],
+   "correta": 1,
+   "comentario": "A obra tem resultado material definido e se esgota na entrega: construir, reformar, ampliar. O serviço é a prestação continuada da utilidade. Por isso a mesma UBS aparece em dois momentos jurídicos distintos.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Na mesma rodoviária municipal ocorrem quatro fatos. Qual deles configura poder de polícia administrativa?",
+   "alternativas": [
+    "A empreiteira contratada conclui a reforma do terminal de embarque.",
+    "A concessionária opera as linhas de ônibus urbano que partem do terminal.",
+    "O agente municipal autua um ônibus por infração às normas de trânsito.",
+    "Uma lanchonete instalada no terminal vende alimentos aos passageiros.",
+    "O Município organiza os horários do transporte coletivo local."
+   ],
+   "correta": 2,
+   "comentario": "Multar o ônibus é condicionar e restringir a atividade para proteger o interesse público: poder de polícia. A reforma é obra; operar e organizar as linhas é serviço público; a lanchonete exerce atividade econômica privada, e a localização no terminal não a converte em prestadora do transporte.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Sobre a remuneração dos serviços públicos, assinale a alternativa correta.",
+   "alternativas": [
+    "Serviço público é, por definição, gratuito para o usuário.",
+    "Todo serviço público deve ser remunerado por taxa, pois envolve atividade estatal.",
+    "A tarifa é espécie tributária e depende de lei em sentido estrito do ente competente.",
+    "O serviço público pode ser custeado sem cobrança direta, por taxa ou por tarifa, conforme a Constituição e a lei.",
+    "Empresa privada que executa serviço delegado não pode receber remuneração, sob pena de desvirtuar o regime público."
+   ],
+   "correta": 3,
+   "comentario": "Conceito de serviço público não se confunde com gratuidade. O atendimento na UBS não tem cobrança direta; a coleta domiciliar de lixo pode ser custeada por taxa; a passagem de ônibus concedido é tarifa, preço não tributário. A delegatária recebe a remuneração prevista no contrato.",
+   "base": "CF, arts. 145, II, e 175"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada situação à categoria jurídica correspondente.",
+   "pares": [
+    [
+     "Vigilância sanitária interdita cozinha irregular",
+     "Poder de polícia"
+    ],
+    [
+     "Empreiteira entrega o prédio de uma escola",
+     "Obra pública"
+    ],
+    [
+     "Concessionária distribui água tratada pela rede",
+     "Serviço público"
+    ],
+    [
+     "Padaria vende pão a preço acessível",
+     "Atividade econômica privada"
+    ]
+   ],
+   "comentario": "A interdição condiciona a atividade privada (polícia); a entrega do prédio esgota um resultado material (obra); a distribuição de água pela rede é utilidade assumida pelo Estado e delegada (serviço público); a padaria oferece utilidade social sem titularidade estatal (atividade econômica).",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada pergunta do teste das três dimensões ao elemento que ela investiga.",
+   "pares": [
+    [
+     "Quem detém a atribuição de organizar ou garantir a prestação?",
+     "Elemento subjetivo"
+    ],
+    [
+     "Que utilidade concreta chega ao usuário?",
+     "Elemento material"
+    ],
+    [
+     "Que deveres e controles jurídicos incidem sobre a execução?",
+     "Elemento formal"
+    ]
+   ],
+   "comentario": "As três perguntas devem ser feitas em conjunto. No abastecimento de água: o titular público organiza a prestação (subjetivo), a água tratada chega aos imóveis (material) e há regulação, fiscalização e dever de continuidade (formal).",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Uma concessionária municipal de transporte coletivo anuncia que, a partir do dia seguinte, deixará de operar seis linhas pouco lucrativas. Centenas de trabalhadores e estudantes perderiam o deslocamento regular. Um vereador sustenta que a questão é apenas comercial, já que a empresa é privada e os ônibus lhe pertencem. Na mesma cidade, uma empresa privada de entregas deixou de atender um bairro por baixa demanda.",
+   "pergunta": "A tese do vereador está correta? As duas situações recebem o mesmo tratamento jurídico? Qual o encaminhamento adequado?",
+   "resposta": "Não. O transporte coletivo local é incumbência do Município, e a concessionária apenas executa o serviço por contrato, sem se apropriar da titularidade; a propriedade dos ônibus não altera isso. O vínculo de concessão tem disciplina pública e interessa diretamente aos usuários e ao poder concedente, de modo que a empresa não pode abandonar linhas por conveniência. Já a empresa de entregas exerce atividade privada, e sua retirada não atrai o regime do serviço público. O Município deve fiscalizar, exigir o cumprimento e examinar as medidas cabíveis no regime legal e contratual, com proporcionalidade e devido procedimento, sem presumir caducidade ou intervenção automáticas.",
+   "checklist": [
+    "Titularidade municipal do transporte coletivo local, com execução delegada à concessionária",
+    "Propriedade dos ônibus não transfere a titularidade nem afasta o regime público",
+    "Distinção entre a atividade privada de entregas e o serviço público concedido",
+    "Encaminhamento: fiscalização e medidas legais e contratuais com devido procedimento, sem sanção automática"
+   ],
+   "base": "CF, arts. 30, V, e 175"
+  }
+ ]
+}

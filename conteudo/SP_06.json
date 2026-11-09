@@ -1,0 +1,154 @@
+{
+ "trilha": "SP",
+ "n": 6,
+ "titulo": "Tarifa, equilíbrio e continuidade: quando o serviço pode parar",
+ "objetivo": "Resolver questões de tarifa e revisão e decidir, caso a caso, quando a interrupção de serviço essencial é lícita.",
+ "relampago": [
+  "Tarifa é preço público, não tributo; taxa exige lei e serviço específico e divisível (CF, art. 145, II). O rótulo do boleto não decide a natureza.",
+  "A tarifa nasce da proposta vencedora (art. 9º); alteração unilateral que afete o equilíbrio exige recomposição concomitante (§ 4º).",
+  "Tributo criado ou alterado depois da apresentação da proposta, com impacto comprovado, gera revisão para mais ou para menos — salvo impostos sobre a renda (§ 3º).",
+  "Receitas alternativas, complementares e acessórias previstas no edital ajudam a modicidade (art. 11).",
+  "Não é descontinuidade a interrupção em emergência ou, após aviso, por razão técnica, de segurança ou inadimplemento; o corte por inadimplência não começa sexta, sábado, domingo, feriado ou véspera (art. 6º, §§ 3º e 4º).",
+  "Débito pretérito não justifica corte; fraude no medidor só com contraditório, ampla defesa e as janelas de 90 dias do Tema 699 do STJ.",
+  "Concedente inadimplente? A concessionária vai a juízo e mantém o serviço até o trânsito em julgado (art. 39)."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "O pedágio cobrado pela concessionária de rodovia tem, em regra, natureza de taxa, por remunerar o uso de bem público.",
+   "gabarito": "E",
+   "comentario": "Pedágio de rodovia concedida é normalmente tarifa, preço não tributário ligado à exploração do serviço. Taxa é tributo, depende de lei e do art. 145, II, da CF.",
+   "base": "CF, art. 145, II; Lei 8.987/1995, art. 9º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A criação ou alteração de tributos ou encargos legais após a apresentação da proposta, com impacto comprovado, implica revisão da tarifa para mais ou para menos, ressalvados os impostos sobre a renda.",
+   "gabarito": "C",
+   "comentario": "É a literalidade do art. 9º, § 3º. A revisão funciona nos dois sentidos e a única ressalva é a dos impostos sobre a renda, que não autorizam revisão.",
+   "base": "Lei 8.987/1995, art. 9º, § 3º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Para fins de revisão tarifária por alteração de tributos, o marco temporal fixado pela lei é a assinatura do contrato de concessão.",
+   "gabarito": "E",
+   "comentario": "O marco é a apresentação da proposta, não a assinatura do contrato. Essa troca de datas é pegadinha clássica de prova.",
+   "base": "Lei 8.987/1995, art. 9º, § 3º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A vedação de iniciar a interrupção na sexta-feira, no fim de semana ou em feriado alcança também a interrupção emergencial causada pela queda súbita de um transformador.",
+   "gabarito": "E",
+   "comentario": "O § 4º do art. 6º se refere à interrupção por inadimplemento do usuário. A emergência pode exigir interrupção imediata, sem aviso, em qualquer dia, pois não é descontinuidade (§ 3º).",
+   "base": "Lei 8.987/1995, art. 6º, §§ 3º e 4º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A concessionária deve dar transparência aos valores das tarifas praticadas e à evolução das revisões ou reajustes realizados nos últimos cinco anos.",
+   "gabarito": "C",
+   "comentario": "O art. 9º, § 5º, impõe esse dever de informação, que se soma ao direito do usuário de conhecer a tabela e o histórico tarifário. O período legal é de cinco anos.",
+   "base": "Lei 8.987/1995, art. 9º, § 5º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O STF firmou que é vedado o exercício do direito de greve a policiais civis e a demais servidores que atuem diretamente na área de segurança pública.",
+   "gabarito": "C",
+   "comentario": "É a tese do Tema 541 (ARE 654432). A vedação é especial e não se estende a toda atividade pública: para os demais servidores civis, o direito de greve se harmoniza com o dever de continuidade.",
+   "base": "STF, ARE 654432 (Tema 541)"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Nos Estados e no Distrito Federal, as concessionárias devem oferecer ao usuário, no mês do vencimento, no mínimo ___ datas opcionais para o pagamento de seus débitos.",
+   "opcoes": [
+    "seis",
+    "três",
+    "cinco",
+    "dez"
+   ],
+   "correta": 0,
+   "comentario": "O art. 7º-A garante ao usuário a escolha entre pelo menos seis datas de vencimento. É direito de organização financeira do usuário, frequentemente cobrado com troca de número.",
+   "base": "Lei 8.987/1995, art. 7º-A"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Pelo Tema 699 do STJ, o corte por fraude no medidor, apurada com contraditório, só pode se referir ao consumo recuperado dos ___ anteriores à constatação, e deve ocorrer em até 90 dias após o vencimento do débito.",
+   "opcoes": [
+    "30 dias",
+    "90 dias",
+    "12 meses",
+    "cinco anos"
+   ],
+   "correta": 1,
+   "comentario": "A tese trabalha com duas janelas de 90 dias: consumo recuperado de até 90 dias antes da constatação e corte em até 90 dias depois do vencimento, sempre com aviso prévio. Fora disso, resta a cobrança judicial ordinária.",
+   "base": "STJ, Tema 699"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Em qual das situações abaixo a interrupção do fornecimento de energia é, em princípio, legítima?",
+   "alternativas": [
+    "Corte por inadimplemento da conta do mês, iniciado numa sexta-feira à tarde, após aviso prévio.",
+    "Corte por fatura não paga há quatro anos, desconectada do consumo atual.",
+    "Corte imposto ao novo morador por dívida deixada pelo inquilino anterior.",
+    "Interrupção imediata, sem aviso, por queda súbita de transformador que ameaça a segurança.",
+    "Corte por fraude no medidor constatada unilateralmente, sem oportunidade de defesa."
+   ],
+   "correta": 3,
+   "comentario": "A emergência não caracteriza descontinuidade e dispensa aviso (art. 6º, § 3º). Sexta-feira é dia vedado para iniciar corte por inadimplência, débito pretérito se cobra pelas vias próprias, dívida do usuário anterior não é propter rem e fraude exige apuração com defesa.",
+   "base": "Lei 8.987/1995, art. 6º, §§ 3º e 4º; STJ, Tema 699"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "O Município atrasou os pagamentos devidos à concessionária de transporte coletivo. A empresa ameaça recolher toda a frota à garagem. Qual a conduta juridicamente correta da concessionária?",
+   "alternativas": [
+    "Suspender o serviço de imediato, invocando a exceção do contrato não cumprido.",
+    "Paralisar a operação após 90 dias de atraso, independentemente de decisão judicial.",
+    "Propor ação judicial para rescindir o contrato, mantendo o serviço até a decisão transitada em julgado.",
+    "Declarar ela mesma a caducidade do contrato por descumprimento do concedente.",
+    "Reduzir a frota à metade, como forma proporcional de pressão."
+   ],
+   "correta": 2,
+   "comentario": "O art. 39 prevê a rescisão por iniciativa da concessionária mediante ação judicial, e o parágrafo único proíbe interromper ou paralisar o serviço até o trânsito em julgado. Caducidade é sanção aplicada pelo concedente à concessionária, nunca o contrário.",
+   "base": "Lei 8.987/1995, art. 39"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada situação ao regime de interrupção aplicável.",
+   "pares": [
+    [
+     "Emergência",
+     "Interrupção sem aviso prévio, sem caracterizar descontinuidade"
+    ],
+    [
+     "Manutenção técnica programada",
+     "Aviso na forma exigida pela regulação do setor"
+    ],
+    [
+     "Inadimplemento atual do usuário",
+     "Corte após aviso, nunca iniciado em sexta, fim de semana, feriado ou véspera"
+    ],
+    [
+     "Débito pretérito",
+     "Cobrança pelas vias próprias, sem uso do corte como coerção"
+    ],
+    [
+     "Hospital inadimplente",
+     "Controle rigoroso, com prevalência da atividade indispensável à vida"
+    ]
+   ],
+   "comentario": "A continuidade não significa funcionamento ininterrupto em qualquer situação: a lei admite exceções, mas cada uma tem seu pressuposto. Onde há risco imediato à vida, como numa UTI, o corte pode ser ilícito mesmo havendo dívida.",
+   "base": "Lei 8.987/1995, art. 6º, §§ 3º e 4º; STJ, REsp 1.812.140/RS"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Três consumidores procuram a Defensoria na mesma semana. Ana recebeu aviso de corte por uma conta de quatro anos atrás. Bruno teve o medidor declarado fraudado pela distribuidora numa vistoria sem a sua presença e, no dia seguinte, ficou sem energia. Carla teve o bairro sem luz numa manutenção programada que só foi anunciada em rádios locais, embora a regulação exigisse notificação escrita ou destaque na fatura.",
+   "pergunta": "Avalie, para cada consumidor, se a interrupção é lícita e indique o fundamento.",
+   "resposta": "Ana: o corte é ilícito. O serviço essencial não pode ser usado como meio coercitivo para cobrar débito antigo, desligado do consumo atual; a distribuidora deve cobrar pelas vias próprias. Bruno: o corte é ilícito, porque a fraude foi apurada unilateralmente; o Tema 699 do STJ só admite corte com contraditório e ampla defesa, aviso prévio, consumo recuperado de até 90 dias antes da constatação e corte em até 90 dias após o vencimento. Carla: a manutenção técnica é hipótese legal de interrupção após aviso (art. 6º, § 3º, I), mas o aviso deve seguir a forma do regulador; o STJ rejeitou anúncio apenas em rádio quando a ANEEL exigia notificação escrita ou destaque na fatura.",
+   "checklist": [
+    "Débito pretérito não autoriza corte",
+    "Fraude exige contraditório e as janelas de 90 dias do Tema 699",
+    "Interrupção técnica depende de aviso na forma da regulação",
+    "Cita o art. 6º, § 3º, da Lei 8.987/1995"
+   ],
+   "base": "Lei 8.987/1995, art. 6º, § 3º; STJ, Tema 699; STJ, REsp 1.812.140/RS"
+  }
+ ]
+}

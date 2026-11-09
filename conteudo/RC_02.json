@@ -1,0 +1,153 @@
+{
+ "trilha": "RC",
+ "n": 2,
+ "titulo": "Evolução das teorias e modalidades do risco",
+ "objetivo": "Reconhecer cada fase histórica da responsabilidade estatal e diferenciar risco administrativo, risco integral e risco social, com o ônus da prova correto.",
+ "relampago": [
+  "Irresponsabilidade (o rei não erra) nunca foi adotada no Brasil; depois veio a responsabilidade só com previsão legal, e o Caso Blanco (1873) inaugurou a lógica publicista.",
+  "Teoria civilista: exigia culpa do funcionário e separava atos de império (sem responsabilidade) de atos de gestão (com responsabilidade).",
+  "Culpa do serviço (culpa anônima): basta provar que o serviço faltou, funcionou mal ou atrasou; ainda é subjetiva.",
+  "Teorias do risco: objetivas, fundadas na repartição isonômica dos encargos; no Brasil desde a CF/1946, ampliadas em 1988 às prestadoras privadas.",
+  "Risco administrativo é a regra e admite excludentes; risco integral é exceção (nuclear, por exemplo) e não as admite; risco social socializa o dano por lei.",
+  "Ônus da prova: a vítima prova conduta, dano e nexo; a Administração prova a excludente; culpa recíproca reduz a indenização."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A teoria da irresponsabilidade do Estado, expressa na máxima de que o rei não pode errar, nunca foi adotada no ordenamento jurídico brasileiro.",
+   "gabarito": "C",
+   "comentario": "Certo. A irresponsabilidade, própria dos Estados absolutistas e fundada na soberania, não chegou a vigorar no Brasil, que sempre admitiu alguma forma de responsabilização estatal.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A teoria da culpa do serviço (faute du service) é modalidade de responsabilidade objetiva, pois dispensa a identificação do agente causador do dano.",
+   "gabarito": "E",
+   "comentario": "Errado. Dispensar a identificação do agente não equivale a dispensar a culpa: a vítima ainda prova a falta do serviço (culpa administrativa ou anônima). Por isso a doutrina classifica a teoria como modalidade subjetiva.",
+   "base": "Doutrina clássica"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A responsabilidade objetiva do Estado não é inovação da Constituição de 1988, pois já constava da Constituição de 1946; a novidade de 1988 foi estendê-la às pessoas jurídicas de direito privado prestadoras de serviço público.",
+   "gabarito": "C",
+   "comentario": "Certo. A objetivação vem da CF/1946 (art. 194) e foi mantida em 1967-69. A CF/88, no art. 37, § 6º, incluiu expressamente as prestadoras privadas de serviço público no regime.",
+   "base": "CF/1946, art. 194; CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A teoria do risco administrativo, adotada como regra pela Constituição, não admite excludentes de responsabilidade, como a culpa exclusiva da vítima.",
+   "gabarito": "E",
+   "comentario": "Errado. Quem afasta as excludentes é o risco integral. O risco administrativo dispensa a prova de culpa, mas preserva o exame do nexo, que pode ser rompido por fato exclusivo da vítima, de terceiro, caso fortuito ou força maior.",
+   "base": "CF, art. 37, § 6º; Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Na responsabilidade por dano nuclear, adota-se o risco integral, de modo que o nexo causal não é rompido por culpa da vítima, fato de terceiro ou força maior.",
+   "gabarito": "C",
+   "comentario": "Certo. O dano nuclear é a hipótese clássica de risco integral, com responsabilidade independente de culpa prevista na própria Constituição. Basta o evento e o nexo, que aqui é fortalecido e não se rompe pelas excludentes comuns.",
+   "base": "CF, art. 21, XXIII, d"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pela teoria civilista na sua vertente da dupla personalidade, o Estado respondia pelos atos de império, mas não pelos atos de gestão.",
+   "gabarito": "E",
+   "comentario": "Errado: a inversão é a pegadinha. O Estado não respondia pelos atos de império (praticados com soberania, como desapropriar) e respondia pelos atos de gestão (praticados como particular, como alugar um prédio), sempre com prova de culpa do funcionário.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O Caso ___, julgado pelo Tribunal de Conflitos francês em 1873, é apontado como a certidão de nascimento das teorias publicistas, ao afirmar que a responsabilidade do Estado se rege por princípios próprios do Direito Público.",
+   "opcoes": [
+    "Blanco",
+    "Cadot",
+    "Marbury",
+    "Dreyfus"
+   ],
+   "correta": 0,
+   "comentario": "No Caso Agnès Blanco, uma menina foi atropelada por vagonete de um serviço estatal em Bordeaux. A decisão afastou o Código Civil e submeteu a responsabilidade estatal a regras próprias do Direito Público.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O fundamento das teorias do risco é a repartição ___ dos encargos públicos: se a atividade estatal beneficia todos, os danos que ela gera devem ser suportados por todos, via erário.",
+   "opcoes": [
+    "proporcional",
+    "isonômica",
+    "discricionária",
+    "contratual"
+   ],
+   "correta": 1,
+   "comentario": "A ideia é a igualdade diante dos encargos públicos. Não é justo que só a vítima arque com o custo de uma atividade que favorece a coletividade; por isso o erário reparte o prejuízo.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Sobre a responsabilidade do Estado no art. 37, § 6º, da CF e o ônus da prova, assinale a correta.",
+   "alternativas": [
+    "A vítima deve provar a culpa pessoal do agente para obter a indenização.",
+    "Cabe à Administração, em sua defesa, demonstrar eventual excludente; provada a culpa recíproca, a indenização é reduzida proporcionalmente.",
+    "Provada a culpa concorrente da vítima, o Estado fica integralmente exonerado.",
+    "O regresso contra o agente independe de dolo ou culpa, por ser também objetivo.",
+    "O modelo adotado é o do risco integral, sem possibilidade de excludentes."
+   ],
+   "correta": 1,
+   "comentario": "A vítima prova conduta, dano e nexo; não precisa provar culpa de ninguém. A Administração é que deve demonstrar culpa exclusiva da vítima, fato de terceiro, caso fortuito ou força maior. A culpa recíproca não exclui, apenas reduz a indenização.",
+   "base": "CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "A Lei Geral da Copa (Lei nº 12.663/2012) previu que a União assumiria os efeitos da responsabilidade civil por danos decorrentes de incidentes de segurança ligados aos eventos, ainda que causados por terceiros. A hipótese ilustra a teoria do:",
+   "alternativas": [
+    "risco administrativo, porque o dano decorre de agente público nessa qualidade.",
+    "risco integral, porque a lei afasta toda e qualquer excludente.",
+    "culpa do serviço, porque exige falha na segurança do evento.",
+    "risco social, que socializa o prejuízo e desloca o foco do autor para a vítima.",
+    "irresponsabilidade, porque o dano é causado por terceiro."
+   ],
+   "correta": 3,
+   "comentario": "No risco social a coletividade assume o prejuízo, como num seguro coletivo. Não é risco administrativo, pois o dano não vem de agente público nessa qualidade, nem risco integral, pois a própria lei admite excludente quando a vítima concorre para o dano.",
+   "base": "Lei nº 12.663/2012, art. 23"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada fase da evolução da responsabilidade estatal à sua ideia central.",
+   "pares": [
+    [
+     "Irresponsabilidade (regalista)",
+     "O soberano cria o Direito e não pode ser por ele responsabilizado"
+    ],
+    [
+     "Previsão legal",
+     "O Estado responde apenas nos casos expressamente previstos em lei"
+    ],
+    [
+     "Civilista",
+     "Exige prova de culpa do funcionário, como entre particulares"
+    ],
+    [
+     "Culpa do serviço",
+     "Basta provar que o serviço não existiu, funcionou mal ou atrasou"
+    ],
+    [
+     "Risco",
+     "Dispensa prova de culpa do agente e de falha do serviço"
+    ]
+   ],
+   "comentario": "A evolução vai da imunidade do soberano à objetivação. Cada fase deixou marcas no sistema atual: a culpa do serviço ainda aparece nas omissões genéricas, e o risco integral subsiste em hipóteses excepcionais.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Um caminhão de uma autarquia estadual de saneamento invade a contramão e atinge o carro de Lúcia. Na contestação, a autarquia alega que Lúcia não provou a culpa do motorista e que, de todo modo, ela dirigia acima da velocidade permitida. A perícia confirma que Lúcia estava acima do limite, mas que o choque decorreu sobretudo da invasão da contramão.",
+   "pergunta": "Qual teoria rege o caso, quem tem o ônus de provar o quê e qual o efeito da conduta de Lúcia sobre a indenização?",
+   "resposta": "Aplica-se a responsabilidade objetiva na modalidade do risco administrativo (CF, art. 37, § 6º), pois a autarquia é pessoa jurídica de direito público. Lúcia não precisa provar a culpa do motorista: basta demonstrar conduta, dano e nexo. Cabe à autarquia provar eventual excludente; como a perícia não demonstrou culpa exclusiva da vítima, o nexo não se rompe. A velocidade excessiva configura culpa concorrente, que não afasta o dever de indenizar, mas reduz proporcionalmente o valor. O regresso contra o motorista dependerá de prova de dolo ou culpa.",
+   "checklist": [
+    "Risco administrativo: responsabilidade objetiva sem prova de culpa",
+    "Ônus da excludente é da Administração",
+    "Culpa concorrente reduz, mas não exclui a indenização",
+    "Diferença em relação ao risco integral, que não admite excludentes"
+   ],
+   "base": "CF, art. 37, § 6º"
+  }
+ ]
+}

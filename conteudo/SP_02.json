@@ -1,0 +1,155 @@
+{
+ "trilha": "SP",
+ "n": 2,
+ "titulo": "Classificações e regime de remuneração",
+ "objetivo": "Aplicar as classificações doutrinárias sem automatismos e identificar quando cabe gratuidade, taxa, tarifa ou a contribuição do art. 149-A.",
+ "relampago": [
+  "Uti universi atende a coletividade indeterminada (iluminação, varrição, policiamento); uti singuli tem fruição individualizável (água com hidrômetro, energia medida).",
+  "Classificação de fruição não é fórmula de custeio: nem todo serviço individualizável se paga por taxa, e geral não significa indelegável.",
+  "Próprio/impróprio e exclusivo/não exclusivo usam critérios diferentes e variam entre autores: identifique primeiro qual classificação a banca adota.",
+  "Taxa é tributo ligado a serviço específico e divisível ou ao poder de polícia; tarifa é preço público, não tributo.",
+  "SV 41: iluminação pública não pode ser custeada por taxa. SV 19: cabe taxa exclusivamente pela coleta, remoção, tratamento ou destinação de lixo de imóveis.",
+  "O art. 149-A prevê contribuição própria, e a EC 132/2023 ampliou seu objeto para expansão, melhoria e sistemas de monitoramento de logradouros."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A iluminação de ruas e praças é exemplo de serviço uti universi, pois não é possível mensurar quanto cada pessoa se beneficiou individualmente.",
+   "gabarito": "C",
+   "comentario": "A luminária acesa beneficia ao mesmo tempo o pedestre, o morador e o motorista, sem individualização possível. É o exemplo típico de serviço geral, ao lado do policiamento ostensivo e da varrição de logradouros.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Todo serviço uti singuli deve, obrigatoriamente, ser remunerado por taxa, já que é específico e divisível.",
+   "gabarito": "E",
+   "comentario": "A divisibilidade pode justificar taxa quando presentes os requisitos constitucionais e legais, mas não a impõe. A energia residencial é medida por unidade consumidora e, em regra, remunerada por tarifa regulada, que não é tributo.",
+   "base": "CF, art. 145, II"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo súmula vinculante do STF, é válida a taxa cobrada exclusivamente em razão dos serviços de coleta, remoção e tratamento ou destinação de lixo provenientes de imóveis.",
+   "gabarito": "C",
+   "comentario": "É o teor da SV 19. A coleta domiciliar alcança imóveis identificáveis e permite individualização. Atenção: varrição de ruas e conservação de praças são serviços gerais e não entram nessa autorização.",
+   "base": "STF, Súmula Vinculante 19"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Com a EC 132/2023, a contribuição do art. 149-A passou a ter natureza de taxa, porque agora pode custear também sistemas de monitoramento de logradouros.",
+   "gabarito": "E",
+   "comentario": "A EC 132/2023 ampliou as finalidades da contribuição (custeio, expansão e melhoria da iluminação e monitoramento para segurança e preservação de logradouros), mas não mudou sua espécie: continua contribuição. Também não se torna taxa nem tarifa por aparecer na fatura de energia.",
+   "base": "CF, art. 149-A (EC 132/2023)"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A Súmula Vinculante ___ do STF veda a cobrança de taxa para custear o serviço de iluminação pública.",
+   "opcoes": [
+    "12",
+    "29",
+    "41",
+    "19"
+   ],
+   "correta": 2,
+   "comentario": "A SV 41 afasta a taxa de iluminação pública porque o serviço é geral e indivisível. A SV 19 trata do contrário: admite taxa pela coleta de lixo de imóveis. Trocar os números das duas súmulas é pegadinha frequente.",
+   "base": "STF, Súmula Vinculante 41"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A tarifa cobrada pela passagem de ônibus concedido é ___, e não espécie tributária.",
+   "opcoes": [
+    "taxa de serviço",
+    "contribuição especial",
+    "imposto vinculado",
+    "preço público"
+   ],
+   "correta": 3,
+   "comentario": "A tarifa remunera a utilização de serviço sujeito a concessão ou outro regime de prestação e tem natureza de preço não tributário. A taxa exige lei e hipótese constitucional de polícia ou de serviço específico e divisível.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Ao conferir as despesas da casa, uma pessoa encontra quatro cobranças. Assinale a classificação correta.",
+   "alternativas": [
+    "IPTU: taxa cobrada pela iluminação da rua em frente ao imóvel.",
+    "Passagem de ônibus urbano concedido: taxa de serviço específico e divisível.",
+    "Mensalidade da escola particular: tarifa de serviço público de educação.",
+    "Contribuição de iluminação na fatura de energia: parcela da tarifa de eletricidade.",
+    "Taxa de lixo domiciliar prevista em lei municipal: tributo vinculado a serviço específico e divisível."
+   ],
+   "correta": 4,
+   "comentario": "A taxa de coleta domiciliar, validamente instituída, é tributo vinculado. O IPTU é imposto patrimonial; a passagem é tarifa; a mensalidade da escola particular é preço privado; a contribuição do art. 149-A tem espécie própria, ainda que cobrada na fatura.",
+   "base": "CF, arts. 145, II, e 149-A; SV 19"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um Município quer financiar a manutenção da iluminação de praças e avenidas. Qual instrumento a Constituição oferece?",
+   "alternativas": [
+    "Taxa de iluminação pública, por se tratar de serviço específico.",
+    "Contribuição instituída por lei municipal, nos termos do art. 149-A.",
+    "Tarifa cobrada de cada pedestre que circule pelas vias iluminadas.",
+    "Preço privado fixado pela distribuidora de energia em contrato.",
+    "Taxa de polícia cobrada em razão da segurança proporcionada pela luz."
+   ],
+   "correta": 1,
+   "comentario": "Como a iluminação é serviço geral, a SV 41 veda a taxa. A Constituição prevê contribuição própria no art. 149-A, por lei municipal ou distrital, hoje com finalidades ampliadas pela EC 132/2023. As demais opções ignoram a indivisibilidade ou trocam a espécie da cobrança.",
+   "base": "CF, art. 149-A; SV 41"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada serviço à sua classificação quanto aos destinatários e ao ponto de precisão sobre custeio.",
+   "pares": [
+    [
+     "Policiamento ostensivo em avenida",
+     "Uti universi, sem cobrança individual por patrulhamento"
+    ],
+    [
+     "Coleta domiciliar do lixo de imóveis",
+     "Específico e divisível, pode fundamentar taxa"
+    ],
+    [
+     "Energia fornecida a uma residência",
+     "Uti singuli, remunerado em regra por tarifa"
+    ],
+    [
+     "Varrição de rua após um evento",
+     "Uti universi, não se confunde com coleta domiciliar"
+    ]
+   ],
+   "comentario": "A classificação de fruição orienta, mas não resolve sozinha o custeio. A coleta domiciliar admite taxa pela SV 19; a energia é individualizável, mas remunerada por tarifa; varrição e policiamento são utilidades gerais.",
+   "base": "Doutrina; SV 19"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada par classificatório ao critério que ele examina.",
+   "pares": [
+    [
+     "Uti universi / uti singuli",
+     "Possibilidade de individualizar destinatários e fruição"
+    ],
+    [
+     "Exclusivo / não exclusivo",
+     "Se o ordenamento reserva ou não a atividade ao Poder Público"
+    ],
+    [
+     "Próprio / impróprio",
+     "Assunção da atividade pelo Estado e tipo de ingerência pública"
+    ]
+   ],
+   "comentario": "Os pares partem de critérios distintos e não são sinônimos. Em prova, identifique primeiro qual classificação o enunciado adota, porque os termos próprio, impróprio e exclusivo recebem usos variados entre os autores.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "O Município de Rio Claro aprova lei que institui, na mesma norma, três cobranças: uma taxa de iluminação pública lançada no carnê do IPTU, uma taxa pela coleta domiciliar de lixo e uma taxa de varrição de ruas e praças. A lei afirma que tudo é constitucional porque os três serviços são públicos e prestados por empresa contratada. Um contribuinte consulta você.",
+   "pergunta": "Analise a validade de cada cobrança e indique a alternativa constitucional para a iluminação.",
+   "resposta": "A taxa de iluminação pública é inválida, pois a SV 41 veda taxa para custear serviço geral e indivisível; a alternativa é a contribuição do art. 149-A, instituída por lei municipal, que com a EC 132/2023 pode custear também expansão, melhoria e monitoramento de logradouros. A taxa de coleta domiciliar pode ser válida, nos termos da SV 19, porque o serviço alcança imóveis identificáveis e é específico e divisível. A taxa de varrição de ruas e praças não se sustenta, pois a limpeza de logradouros é utilidade geral e não se confunde com a coleta domiciliar. A execução por empresa contratada não torna o serviço individualizável nem define a espécie da cobrança.",
+   "checklist": [
+    "SV 41: invalidade da taxa de iluminação e indicação da contribuição do art. 149-A",
+    "SV 19: possibilidade da taxa de coleta domiciliar de lixo de imóveis",
+    "Varrição como serviço geral, sem base para taxa",
+    "Executor privado não altera a classificação nem a natureza da cobrança"
+   ],
+   "base": "CF, arts. 145, II, e 149-A; STF, SV 19 e 41"
+  }
+ ]
+}

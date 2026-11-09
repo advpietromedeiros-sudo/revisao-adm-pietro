@@ -1,0 +1,154 @@
+{
+ "trilha": "SP",
+ "n": 8,
+ "titulo": "PPP: espécies, limites, riscos e garantias",
+ "objetivo": "Identificar quando um contrato pode ser PPP e aplicar os limites, a repartição de riscos, a indelegabilidade e as garantias da Lei 11.079/2004.",
+ "relampago": [
+  "PPP é concessão da Lei 11.079/2004 em duas espécies: patrocinada (tarifa do usuário + contraprestação pública) e administrativa (a Administração é usuária direta ou indireta).",
+  "É vedada PPP abaixo de R$ 10 milhões, com prestação de serviço por menos de 5 anos ou com objeto único de mão de obra, equipamentos ou obra; a vigência vai de 5 a 35 anos, prorrogação incluída.",
+  "Na patrocinada, mais de 70% da remuneração paga pela Administração exige autorização legislativa específica: a lei condiciona, não proíbe.",
+  "Repartição objetiva de riscos, inclusive caso fortuito, força maior, fato do príncipe e álea econômica extraordinária, não é solidariedade automática.",
+  "Regulação, jurisdição, poder de polícia e demais atividades exclusivas do Estado são indelegáveis (art. 4º, III).",
+  "A contraprestação pode vir por ordem bancária, cessão de créditos não tributários, direitos sobre bens dominicais e outros meios legais, e pode variar conforme o desempenho.",
+  "SPE constituída antes do contrato, sem maioria votante da Administração; garantias do art. 8º e FGP; licitação por concorrência ou diálogo competitivo."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A PPP abrange também a concessão comum, em que não há contraprestação pecuniária do parceiro público.",
+   "gabarito": "E",
+   "comentario": "A concessão comum, sem contraprestação pecuniária pública, continua regida pela Lei 8.987/1995. A PPP pressupõe essa contraprestação (patrocinada) ou a Administração como usuária (administrativa).",
+   "base": "Lei 11.079/2004, art. 2º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O valor mínimo do contrato de PPP é de R$ 20 milhões.",
+   "gabarito": "E",
+   "comentario": "O piso foi reduzido para R$ 10 milhões. Quem decorou o valor antigo erra a questão: a vedação atual alcança contratos de valor inferior a R$ 10 milhões.",
+   "base": "Lei 11.079/2004, art. 2º, § 4º, I"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Na concessão patrocinada, a contraprestação estatal superior a 70% da remuneração do parceiro privado é admitida, desde que haja autorização legislativa específica.",
+   "gabarito": "C",
+   "comentario": "O art. 10, § 3º, não proíbe o arranjo: condiciona-o à autorização legislativa específica. Tratar o limite de 70% como proibição absoluta é erro frequente.",
+   "base": "Lei 11.079/2004, art. 10, § 3º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O prazo de vigência do contrato de PPP não pode ser inferior a 5 nem superior a 35 anos, incluída eventual prorrogação.",
+   "gabarito": "C",
+   "comentario": "É o art. 5º, I. Repare que os 35 anos já incluem a prorrogação, e que, além disso, o período de prestação de serviço não pode ser inferior a 5 anos (art. 2º, § 4º).",
+   "base": "Lei 11.079/2004, arts. 2º, § 4º, e 5º, I"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A Administração Pública pode, como regra, ser titular da maioria do capital votante da sociedade de propósito específico da PPP.",
+   "gabarito": "E",
+   "comentario": "O art. 9º veda à Administração a maioria do capital votante da SPE. A única ressalva legal é a aquisição por instituição financeira controlada pelo Poder Público em caso de inadimplemento de contratos de financiamento.",
+   "base": "Lei 11.079/2004, art. 9º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A contraprestação da Administração na PPP pode ser feita por cessão de créditos não tributários.",
+   "gabarito": "C",
+   "comentario": "O art. 6º lista ordem bancária, cessão de créditos não tributários, outorga de direitos em face da Administração, outorga de direitos sobre bens dominicais e outros meios legais. A troca de 'não tributários' por 'tributários' é a pegadinha usual.",
+   "base": "Lei 11.079/2004, art. 6º"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Na concessão ___, a Administração Pública é a usuária direta ou indireta dos serviços, ainda que o contrato envolva execução de obra ou fornecimento e instalação de bens.",
+   "opcoes": [
+    "patrocinada",
+    "comum",
+    "administrativa",
+    "precedida de obra"
+   ],
+   "correta": 2,
+   "comentario": "Essa é a definição legal da concessão administrativa. Na patrocinada, há tarifa cobrada do usuário somada à contraprestação pública; na comum, não há contraprestação pecuniária do parceiro público.",
+   "base": "Lei 11.079/2004, art. 2º, §§ 1º e 2º"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "O aporte de bens de uso comum ou de uso especial ao Fundo Garantidor de Parcerias depende de prévia ___ individualizada.",
+   "opcoes": [
+    "desafetação",
+    "encampação",
+    "licitação",
+    "autorização judicial"
+   ],
+   "correta": 0,
+   "comentario": "O art. 16, § 7º, condiciona o aporte desses bens ao FGP à desafetação feita de forma individualizada. Sem desafetação, o bem continua vinculado à sua finalidade pública e não pode servir de garantia.",
+   "base": "Lei 11.079/2004, art. 16, § 7º"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Qual dos contratos abaixo pode, em tese, ser estruturado como PPP?",
+   "alternativas": [
+    "Contrato de R$ 8 milhões para gestão de iluminação pública por 20 anos.",
+    "Contrato de 8 meses para levantar uma parede de escola municipal.",
+    "Concessão de rodovia por 25 anos, de R$ 500 milhões, com pedágio pago pelos usuários e pagamento mensal do Estado ao operador.",
+    "Contrato de R$ 50 milhões, por 10 anos, cujo único objeto é fornecer mão de obra a hospitais.",
+    "Contrato de gestão de presídio por 40 anos, já incluída a prorrogação."
+   ],
+   "correta": 2,
+   "comentario": "Pedágio somado a contraprestação pública é o desenho da PPP patrocinada, e valor e prazo estão dentro da lei. As demais esbarram no piso de R$ 10 milhões, na obra como objeto único, na mão de obra como objeto único ou no teto de 35 anos.",
+   "base": "Lei 11.079/2004, arts. 2º, § 4º, e 5º, I"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um Estado estuda PPP para construir, equipar, manter e gerir serviços materiais de uma unidade prisional. Assinale a afirmação correta.",
+   "alternativas": [
+    "A equipe da empresa pode aplicar sanções disciplinares aos internos, se o contrato assim previr.",
+    "A repartição de riscos torna Estado e parceiro privado solidariamente responsáveis por todo dano a terceiros.",
+    "Como o Estado pagará 100% da remuneração, o arranjo é vedado de forma absoluta.",
+    "A licitação deve ser feita exclusivamente por concorrência.",
+    "Pode ser concessão administrativa, preservadas as funções indelegáveis de coerção estatal."
+   ],
+   "correta": 4,
+   "comentario": "Construção, manutenção e serviços materiais cabem numa concessão administrativa, em que a Administração é a usuária. Poder de polícia e coerção são indelegáveis (art. 4º, III), riscos se repartem objetivamente sem solidariedade automática e a licitação admite concorrência ou diálogo competitivo.",
+   "base": "Lei 11.079/2004, arts. 2º, 4º, III, 5º, III, e 10"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada instituto da Lei 11.079/2004 ao seu conteúdo.",
+   "pares": [
+    [
+     "Concessão patrocinada",
+     "Tarifa do usuário somada à contraprestação pecuniária pública"
+    ],
+    [
+     "Concessão administrativa",
+     "Administração como usuária direta ou indireta do serviço"
+    ],
+    [
+     "Art. 4º, III",
+     "Indelegabilidade de regulação, jurisdição e poder de polícia"
+    ],
+    [
+     "Sociedade de propósito específico",
+     "Constituída antes da celebração do contrato para implantar e gerir o objeto"
+    ],
+    [
+     "Fundo Garantidor de Parcerias",
+     "Garantia de natureza privada, com patrimônio próprio separado do dos cotistas"
+    ]
+   ],
+   "comentario": "Os institutos se complementam: as espécies definem quem paga, a indelegabilidade marca o limite do que se transfere, a SPE isola o projeto e o FGP garante as obrigações pecuniárias do parceiro público.",
+   "base": "Lei 11.079/2004, arts. 2º, 4º, 9º e 16"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "O Governo estadual apresenta minuta de PPP: uma empresa construirá e gerirá um presídio por 28 anos, com valor estimado de R$ 600 milhões, remunerada integralmente pelo Estado. A minuta prevê que agentes da empresa apliquem sanções disciplinares aos presos, que Estado e empresa respondam solidariamente por qualquer dano decorrente de caso fortuito, e que o pagamento comece na assinatura, antes de qualquer serviço disponível.",
+   "pergunta": "Diga se o arranjo pode ser PPP e quais cláusulas precisam ser corrigidas, com fundamento.",
+   "resposta": "O arranjo pode ser concessão administrativa, pois o Estado é o usuário do serviço e o valor (acima de R$ 10 milhões) e o prazo (entre 5 e 35 anos) respeitam a lei. Como não há tarifa paga por usuário, não se aplica o limite de 70% da patrocinada. É nula a cláusula que entrega sanções disciplinares à empresa: poder de polícia e coerção estatal são indelegáveis (art. 4º, III). A solidariedade automática deve ser substituída por repartição objetiva de riscos, inclusive caso fortuito e força maior (art. 5º, III). E a contraprestação deve, em regra, suceder a disponibilização do serviço, podendo variar conforme desempenho e disponibilidade.",
+   "checklist": [
+    "Enquadra como concessão administrativa, conferindo valor e prazo",
+    "Declara indelegável a aplicação de sanções (art. 4º, III)",
+    "Troca solidariedade por repartição objetiva de riscos (art. 5º, III)",
+    "Contraprestação após a disponibilização do serviço"
+   ],
+   "base": "Lei 11.079/2004, arts. 2º, 4º, III, 5º e 6º"
+  }
+ ]
+}

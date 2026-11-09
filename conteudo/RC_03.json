@@ -1,0 +1,149 @@
+{
+ "trilha": "RC",
+ "n": 3,
+ "titulo": "Quem responde: dupla garantia e polo passivo",
+ "objetivo": "Identificar quem entra no art. 37, § 6º, contra quem a vítima deve ajuizar a ação e como a jurisprudência resolve usuários, concessões e cartórios.",
+ "relampago": [
+  "Entram no art. 37, § 6º: entes políticos, autarquias, fundações públicas de direito público e privadas prestadoras de serviço público.",
+  "Estatal que explora atividade econômica segue as regras privadas, que podem ser subjetivas ou objetivas; não generalize.",
+  "Dupla garantia (Tema 940): a vítima processa a pessoa jurídica; o agente é parte ilegítima e só responde em regresso, por dolo ou culpa.",
+  "Órgão não tem personalidade: responde o ente político. Entidade responde ela mesma; o ente político, só subsidiariamente.",
+  "Prestadora privada responde objetivamente perante usuários e não usuários (Tema 130); o poder concedente é devedor subsidiário.",
+  "Cartórios (Tema 777): Estado responde direta, primária e objetivamente; o notário responde subjetivamente, com prescrição de 3 anos."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "As polícias civis responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros.",
+   "gabarito": "E",
+   "comentario": "Errado. A Polícia Civil é órgão, sem personalidade jurídica (teoria do órgão). Quem responde é o ente político ao qual ela pertence, no caso o Estado-membro.",
+   "base": "Teoria do órgão; CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo o STF, a responsabilidade objetiva das pessoas jurídicas de direito privado prestadoras de serviço público alcança tanto os usuários quanto os não usuários do serviço.",
+   "gabarito": "C",
+   "comentario": "Certo. O texto constitucional fala em danos causados a terceiros, sem distinguir. O ciclista atropelado por ônibus da concessionária, mesmo sem nunca ter usado a linha, recebe a mesma proteção do passageiro (Tema 130).",
+   "base": "STF, Tema 130 (RE 591.874)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pela teoria da dupla garantia, a vítima pode escolher entre ajuizar a ação indenizatória contra o Estado ou diretamente contra o agente público causador do dano.",
+   "gabarito": "E",
+   "comentario": "Errado. No Tema 940 o STF fixou que a ação deve ser dirigida ao Estado ou à pessoa jurídica prestadora, sendo parte ilegítima o autor do ato. O agente só responde em regresso, mediante prova de dolo ou culpa.",
+   "base": "STF, Tema 940 (RE 1.027.633)"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pelos danos causados por tabeliães e registradores no exercício da função, o Estado responde de forma direta, primária e objetiva, com dever de regresso contra o responsável nos casos de dolo ou culpa.",
+   "gabarito": "C",
+   "comentario": "Certo. Notários e registradores exercem serviço público por delegação, mas não são pessoas jurídicas; por isso o Estado responde diretamente (Tema 777). O regresso é obrigatório, sob pena de improbidade.",
+   "base": "STF, Tema 777 (RE 842.846); CF, art. 236"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Toda empresa estatal exploradora de atividade econômica responde subjetivamente pelos danos que causar, por estar fora do art. 37, § 6º.",
+   "gabarito": "E",
+   "comentario": "Errado, por ser ampla demais. A estatal econômica não entra automaticamente no art. 37, § 6º, mas segue as regras da atividade privada, que podem ser subjetivas ou objetivas conforme o Código Civil, o CDC ou a legislação especial.",
+   "base": "CF, art. 37, § 6º; Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Nas ações de responsabilidade civil do Estado, segundo o STJ, é desnecessária a denunciação da lide ao agente causador do dano.",
+   "gabarito": "C",
+   "comentario": "Certo. A discussão sobre a culpa do servidor é estranha à lide da vítima, que se resolve pela regra objetiva. Ela fica reservada à ação regressiva, sem atrasar a reparação.",
+   "base": "STJ, Jurisprudência em Teses"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "A responsabilidade pessoal do notário ou registrador é ___ e a pretensão contra ele prescreve em 3 anos, contados da lavratura do ato.",
+   "opcoes": [
+    "objetiva",
+    "subjetiva",
+    "solidária",
+    "integral"
+   ],
+   "correta": 1,
+   "comentario": "O Estado responde objetivamente perante a vítima (Tema 777), mas o notário responde por culpa ou dolo, com prazo trienal próprio contado da data da lavratura do ato.",
+   "base": "Lei nº 8.935/1994, art. 22"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Se a concessionária não tiver patrimônio para arcar com a indenização, o poder concedente responde de forma ___, pois a concessionária responde em nome próprio e em caráter primário.",
+   "opcoes": [
+    "solidária",
+    "exclusiva",
+    "subsidiária",
+    "regressiva"
+   ],
+   "correta": 2,
+   "comentario": "A concessão não transforma o Estado em devedor direto das obrigações da concessionária. Esgotado o patrimônio dela, o poder concedente responde subsidiariamente, conforme o STJ.",
+   "base": "STJ, REsp 287.599"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Gabriela foi presa por engano no lugar da irmã gêmea porque um servidor do cartório judicial lançou os dados dela no mandado de prisão. Contra quem ela deve ajuizar a ação indenizatória?",
+   "alternativas": [
+    "Contra o servidor do cartório, autor direto do erro.",
+    "Contra o Tribunal de Justiça, órgão ao qual o servidor é vinculado.",
+    "Contra o servidor e o Estado, em litisconsórcio necessário.",
+    "Contra o juiz que assinou o mandado, por responsabilidade pessoal objetiva.",
+    "Contra o ente federativo, que pode depois agir em regresso contra o servidor."
+   ],
+   "correta": 4,
+   "comentario": "O Tribunal é órgão, sem personalidade jurídica, e o servidor é parte ilegítima pela dupla garantia. A ação vai contra o ente federativo, que responde pela conduta de seus servidores e pode, se houver dolo ou culpa, ajuizar regresso.",
+   "base": "STF, Tema 940; Teoria do órgão"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Assinale a hipótese em que a jurisprudência afastou a responsabilidade civil do Estado.",
+   "alternativas": [
+    "Danos causados pelo liquidante à massa durante liquidação extrajudicial conduzida pelo Banco Central.",
+    "Prejuízos de concessionária de aviação com o congelamento de tarifas imposto por plano econômico.",
+    "Prejuízos da indústria de brinquedos com a redução da alíquota do imposto de importação.",
+    "Registro de venda de imóvel com assinatura grosseiramente falsificada em cartório.",
+    "Atropelamento de não usuário por ônibus de concessionária de transporte urbano."
+   ],
+   "correta": 2,
+   "comentario": "Alterar tributo extrafiscal é prerrogativa estatal, e o impacto é álea econômica do setor, sem direito adquirido à alíquota nem compromisso formal do Estado. Nos demais casos houve responsabilidade: Banco Central, Caso VARIG (ato lícito com dano anormal e específico), Tema 777 e Tema 130.",
+   "base": "STJ, Info 634; STF, Info 963"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada situação ao réu correto da ação indenizatória.",
+   "pares": [
+    [
+     "Viatura da Polícia Militar estadual bate em seu carro",
+     "O Estado-membro"
+    ],
+    [
+     "Carro de autarquia estadual de trânsito bate em seu carro",
+     "A própria autarquia, com o Estado em caráter subsidiário"
+    ],
+    [
+     "Ônibus de concessionária fere um pedestre",
+     "A concessionária, objetiva e primariamente"
+    ],
+    [
+     "Tabelião registra escritura com assinatura falsa",
+     "O Estado, de forma direta e objetiva"
+    ]
+   ],
+   "comentario": "Órgão não tem personalidade, então responde o ente político. Entidade com personalidade própria responde diretamente, e o ente político só subsidiariamente. No cartório, como o delegatário não é pessoa jurídica, o Estado responde direta e primariamente (Tema 777).",
+   "base": "Teoria do órgão; STF, Temas 130 e 777"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Pedro foi ferido por um servidor municipal que, dirigindo veículo oficial em serviço, avançou o sinal vermelho. Pedro ajuizou ação apenas contra o servidor, alegando que pelo princípio da reparação integral poderia escolher o réu e que o servidor tinha patrimônio suficiente. O servidor alegou ilegitimidade passiva.",
+   "pergunta": "A defesa do servidor procede? Explique a teoria aplicável, o polo passivo correto e como o servidor poderá ser responsabilizado.",
+   "resposta": "A defesa procede. O STF, no Tema 940, consagrou a teoria da dupla garantia: a ação por danos causados por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica prestadora de serviço público, sendo parte ilegítima o autor do ato. A primeira garantia é da vítima, que acessa um devedor solvente sem provar culpa; a segunda é do agente, que só responde perante a pessoa jurídica a cujo quadro pertence. Pedro deveria ter demandado o Município, que responde objetivamente pelo risco administrativo. O servidor poderá ser cobrado depois em ação regressiva, mediante prova de dolo ou culpa.",
+   "checklist": [
+    "Tema 940 e ilegitimidade passiva do agente",
+    "As duas garantias: da vítima e do agente",
+    "Município como réu, com responsabilidade objetiva",
+    "Regresso subjetivo contra o servidor"
+   ],
+   "base": "CF, art. 37, § 6º; STF, Tema 940 (RE 1.027.633)"
+  }
+ ]
+}

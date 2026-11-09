@@ -1,0 +1,154 @@
+{
+ "trilha": "RC",
+ "n": 8,
+ "titulo": "Prescrição e regresso: os dois relógios",
+ "objetivo": "Calcular o prazo da vítima contra a Fazenda e o do Estado contra o agente, com termos iniciais e exceções de imprescritibilidade.",
+ "relampago": [
+  "Relógio 1 (vítima × Fazenda): 5 anos pelo Decreto nº 20.910/1932, norma especial que prevalece sobre os 3 anos do Código Civil (STJ, Tema 553).",
+  "Estatais prestadoras de serviço público essencial, sem lucro e sem concorrência, são equiparadas à Fazenda para a prescrição.",
+  "Termo inicial (actio nata): ciência efetiva da lesão e de seus efeitos. Reconhecimento administrativo do débito reinicia o prazo.",
+  "Ilícito também apurado no crime: conta do trânsito em julgado da condenação; sem ação penal, da data do arquivamento do inquérito.",
+  "Súmula 647/STJ: imprescritíveis as indenizações por perseguição política com violação de direitos fundamentais no regime militar.",
+  "Relógio 2 (Estado × agente): a regra é a prescritibilidade (Tema 666); só é imprescritível o ressarcimento por ato doloso de improbidade (Tema 897).",
+  "Desde a Lei nº 14.230/2021 não existe improbidade culposa: a imprescritibilidade se liga sempre ao dolo."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A ação indenizatória contra o Município prescreve em 5 anos, pois o Decreto nº 20.910/1932, norma especial, prevalece sobre o prazo trienal do Código Civil.",
+   "gabarito": "C",
+   "comentario": "O STJ, no Tema 553, afastou o prazo de 3 anos do art. 206, § 3º, V, do Código Civil. O critério é a especialidade, e não a data da norma: o decreto rege as ações contra a Fazenda.",
+   "base": "Decreto nº 20.910/1932, art. 1º; STJ, Tema 553"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pela actio nata, o prazo contra a Fazenda corre sempre da data do ato danoso, ainda que a vítima só tome conhecimento da lesão anos depois.",
+   "gabarito": "E",
+   "comentario": "A actio nata faz o prazo correr da ciência efetiva da lesão e de seus efeitos. Quem descobre num exame, anos depois, que uma gaze foi esquecida no abdômen conta o prazo da descoberta, não da cirurgia.",
+   "base": "Doutrina; STJ"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "O reconhecimento administrativo do débito faz o prazo prescricional reiniciar na data do reconhecimento, o que implica renúncia à prescrição já transcorrida.",
+   "gabarito": "C",
+   "comentario": "Ao reconhecer a dívida, a Administração abre mão do tempo que já havia corrido. O prazo volta a contar a partir do reconhecimento.",
+   "base": "Doutrina; Decreto nº 20.910/1932"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Pela Súmula 647 do STJ, são imprescritíveis as ações por danos morais decorrentes de perseguição política no regime militar, mas as de danos materiais seguem o prazo de 5 anos.",
+   "gabarito": "E",
+   "comentario": "A súmula alcança danos morais e materiais. O fundamento é a gravidade da violação à dignidade e o contexto de exceção, em que a vítima não tinha como buscar reparação; por isso não se aplica o prazo do Decreto nº 20.910/1932.",
+   "base": "STJ, Súmula 647"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "No Tema 666, o STF fixou que é prescritível a ação de ressarcimento ao erário fundada em ilícito civil comum.",
+   "gabarito": "C",
+   "comentario": "A ressalva final do art. 37, § 5º foi lida de forma restritiva: a prescrição garante segurança jurídica, e a imprescritibilidade é exceção. O servidor que causa dano por imprudência responde em prazo prescricional.",
+   "base": "STF, Tema 666 (RE 669.069); CF, art. 37, § 5º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Depois da Lei nº 14.230/2021, a imprescritibilidade do ressarcimento ao erário alcança tanto a improbidade dolosa quanto a culposa.",
+   "gabarito": "E",
+   "comentario": "A Lei nº 14.230/2021 eliminou a improbidade culposa. Assim, a imprescritibilidade do Tema 897 liga-se sempre ao ato doloso de improbidade.",
+   "base": "STF, Tema 897 (RE 852.475); Lei nº 14.230/2021"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Estatais prestadoras de serviço público essencial, sem finalidade lucrativa e sem natureza concorrencial, são equiparadas à ___ quanto à prescrição.",
+   "opcoes": [
+    "empresa privada comum",
+    "Fazenda Pública",
+    "concessionária de serviço",
+    "estatal exploradora de atividade econômica"
+   ],
+   "correta": 1,
+   "comentario": "A Corte Especial do STJ estendeu a essas estatais o prazo quinquenal da Fazenda. Os três requisitos são cumulativos: serviço essencial, ausência de lucro e ausência de concorrência.",
+   "base": "STJ, EREsp 1.725.030 (2023)"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Quando o ilícito também é apurado na esfera penal, o prazo da vítima contra a Fazenda conta do ___ da sentença penal condenatória.",
+   "opcoes": [
+    "recebimento da denúncia",
+    "oferecimento da denúncia",
+    "arquivamento do inquérito",
+    "trânsito em julgado"
+   ],
+   "correta": 3,
+   "comentario": "É a orientação do STJ: espera-se a definição do juízo criminal. O arquivamento do inquérito é marco diferente, usado quando não há ação penal, como no caso de tortura por policiais.",
+   "base": "STJ, Juris em Teses"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Policiais torturam um preso. O inquérito policial é arquivado e não há ação penal. Para a ação indenizatória contra o Estado, o prazo conta:",
+   "alternativas": [
+    "Da data da tortura, sem exceção.",
+    "Da data do arquivamento do inquérito policial.",
+    "Do trânsito em julgado de sentença penal que nunca existirá.",
+    "De nenhum marco: toda ação por tortura é imprescritível pela Súmula 647.",
+    "Da data em que a vítima deixar a prisão."
+   ],
+   "correta": 1,
+   "comentario": "Sem ação penal, o STJ fixa o termo inicial no arquivamento do inquérito. A Súmula 647 não serve aqui, porque se restringe a perseguição política durante o regime militar.",
+   "base": "STJ, Info 556"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Um servidor desviou verbas dolosamente, em ato tipificado como improbidade; outro, por imprudência, bateu o carro oficial, e o Estado indenizou a vítima. Sobre o ressarcimento ao erário, assinale a correta.",
+   "alternativas": [
+    "Ambos são imprescritíveis, por força do art. 37, § 5º.",
+    "Ambos são prescritíveis, sem exceção.",
+    "O do desvio doloso é imprescritível (Tema 897); o do acidente por imprudência é prescritível (Tema 666).",
+    "O do acidente é imprescritível e o do desvio é prescritível.",
+    "A imprescritibilidade depende do valor do prejuízo."
+   ],
+   "correta": 2,
+   "comentario": "A regra do regresso é a prescritibilidade, e o ilícito civil comum segue o Tema 666. Só o ato doloso de improbidade torna imprescritível o ressarcimento, nos termos do Tema 897.",
+   "base": "STF, Temas 666 e 897; CF, art. 37, § 5º"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada norma ou precedente à regra que fixa.",
+   "pares": [
+    [
+     "Decreto nº 20.910/1932 (Tema 553)",
+     "5 anos para a vítima demandar a Fazenda"
+    ],
+    [
+     "Súmula 647/STJ",
+     "Imprescritível a reparação por perseguição política no regime militar"
+    ],
+    [
+     "Tema 666/STF",
+     "Regresso por ilícito civil comum é prescritível"
+    ],
+    [
+     "Tema 897/STF",
+     "Ressarcimento por improbidade dolosa é imprescritível"
+    ],
+    [
+     "Actio nata",
+     "Prazo corre da ciência da lesão e de seus efeitos"
+    ]
+   ],
+   "comentario": "São dois relógios diferentes. O primeiro mede o tempo da vítima contra a Fazenda (Decreto, actio nata, Súmula 647); o segundo, o do Estado contra o agente (Temas 666 e 897).",
+   "base": "Decreto nº 20.910/1932; STJ, Tema 553 e Súmula 647; STF, Temas 666 e 897"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Em março de 2018, Lúcia fez uma cirurgia em hospital estadual. Só em maio de 2024, num exame de imagem, descobriu que uma compressa havia sido esquecida em seu abdômen. Ela ajuizou ação contra o Estado em abril de 2026. O Estado alega prescrição, contando três anos desde a cirurgia. Condenado, o Estado pretende ainda cobrar do cirurgião 'a qualquer tempo', por se tratar de ressarcimento ao erário.",
+   "pergunta": "A ação de Lúcia está prescrita? E o regresso contra o cirurgião é imprescritível?",
+   "resposta": "Não está prescrita. O prazo contra a Fazenda é de 5 anos, pelo Decreto nº 20.910/1932, que prevalece sobre os 3 anos do Código Civil (STJ, Tema 553). Pela actio nata, o prazo corre da ciência efetiva da lesão, em maio de 2024, e não da cirurgia; logo, Lúcia poderia ajuizar até maio de 2029. Quanto ao regresso, o Estado precisa provar dolo ou culpa do cirurgião (CF, art. 37, § 6º), e a pretensão é prescritível, por se tratar de ilícito civil (Tema 666). A imprescritibilidade do Tema 897 só alcança ato doloso de improbidade, e o esquecimento culposo não se enquadra, até porque não existe mais improbidade culposa.",
+   "checklist": [
+    "Prazo de 5 anos do Decreto nº 20.910/1932 (Tema 553)",
+    "Actio nata: conta da descoberta da lesão, não da cirurgia",
+    "Regresso exige dolo ou culpa e é prescritível (Tema 666)",
+    "Tema 897 só para improbidade dolosa"
+   ],
+   "base": "Decreto nº 20.910/1932; STJ, Tema 553; STF, Temas 666 e 897"
+  }
+ ]
+}

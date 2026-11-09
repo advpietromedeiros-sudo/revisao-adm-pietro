@@ -1,0 +1,159 @@
+{
+ "trilha": "SP",
+ "n": 4,
+ "titulo": "Titularidade, competências e formas de prestação",
+ "objetivo": "Separar quem é titular, quem regula, quem presta e quem fiscaliza, distinguindo centralização, outorga, delegação e desconcentração.",
+ "relampago": [
+  "Art. 175 da CF: incumbe ao Poder Público prestar o serviço, diretamente ou sob concessão ou permissão, sempre por licitação.",
+  "Competências: art. 21 traz serviços federais; art. 25, § 2º, o gás canalizado estadual; art. 30, V, os serviços de interesse local, como o transporte coletivo.",
+  "Centralização: a própria pessoa política presta por seus órgãos. Outorga: lei atribui o serviço a entidade da Administração indireta.",
+  "Delegação: concessionário ou permissionário executa por sua conta e risco, sob fiscalização, e a titularidade continua pública.",
+  "Desconcentração reparte tarefas entre órgãos da mesma pessoa jurídica; descentralização envolve pessoa jurídica distinta.",
+  "O núcleo de autoridade (jurisdição, regulação, poder de polícia) não se transfere livremente, e a lei das PPPs veda expressamente essa delegação."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A concessionária que adquire com recursos próprios a frota de ônibus torna-se titular do serviço de transporte coletivo municipal.",
+   "gabarito": "E",
+   "comentario": "Na delegação, o particular executa o serviço por sua conta e risco, mas a titularidade permanece com o Município. A propriedade dos bens empregados na execução não transfere a incumbência pública.",
+   "base": "CF, arts. 30, V, e 175"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A criação, pelo Município, de um departamento de trânsito dentro da estrutura da Secretaria de Mobilidade é exemplo de desconcentração, e não de descentralização.",
+   "gabarito": "C",
+   "comentario": "Desconcentração distribui tarefas entre órgãos da mesma pessoa jurídica, sem personalidade própria. Descentralização pressupõe outra pessoa jurídica, seja entidade da Administração indireta, seja particular delegatário.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo a Constituição, cabe aos Municípios explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado.",
+   "gabarito": "E",
+   "comentario": "O gás canalizado é serviço atribuído aos Estados pelo art. 25, § 2º. Aos Municípios cabem os serviços públicos de interesse local, com destaque para o transporte coletivo, nos termos do art. 30, V.",
+   "base": "CF, art. 25, § 2º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Nos termos do art. 175 da Constituição, a prestação de serviços públicos sob regime de concessão ou permissão deve ser sempre precedida de licitação.",
+   "gabarito": "C",
+   "comentario": "O art. 175 exige licitação para a concessão e a permissão. Cuidado com a generalização inversa: nem toda autorização prevista em regimes setoriais depende de prévia licitação, pois há disciplina própria em leis específicas.",
+   "base": "CF, art. 175"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Quando a lei atribui a uma autarquia a prestação do serviço de abastecimento de água, ocorre descentralização por ___.",
+   "opcoes": [
+    "desconcentração",
+    "centralização",
+    "serviços (outorga)",
+    "colaboração (delegação)"
+   ],
+   "correta": 2,
+   "comentario": "Na descentralização por serviços, ou outorga, entidade da Administração indireta recebe por lei as atribuições de prestar o serviço. A competência política do ente instituidor não desaparece. Na colaboração, o executor é particular contratado.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Na descentralização por colaboração, o particular executa o serviço por sua conta e risco, mas a ___ permanece com o Poder Público.",
+   "opcoes": [
+    "execução material",
+    "propriedade da frota",
+    "gestão de pessoal",
+    "titularidade"
+   ],
+   "correta": 3,
+   "comentario": "O concessionário ou permissionário opera a atividade durante o regime contratual e sob fiscalização. O que se transfere é a execução; a titularidade do serviço continua estatal.",
+   "base": "CF, art. 175"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Assinale a alternativa que descreve corretamente a forma de prestação.",
+   "alternativas": [
+    "Secretaria Municipal de Saúde que administra postos com servidores próprios: descentralização por serviços.",
+    "Concessionária que opera linhas de ônibus urbanos: desconcentração administrativa.",
+    "Secretaria que cria uma coordenadoria interna: delegação por colaboração.",
+    "Autarquia municipal criada por lei para cuidar do saneamento: centralização.",
+    "Concessionária que opera linhas de ônibus urbanos: descentralização por colaboração, com o Município como titular."
+   ],
+   "correta": 4,
+   "comentario": "A concessionária executa por delegação, e o Município segue titular do serviço local. A Secretaria que gere postos com estrutura própria é centralização; a coordenadoria interna é desconcentração; a autarquia criada por lei é descentralização por serviços.",
+   "base": "CF, arts. 30, V, e 175"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Uma empresa privada constrói e mantém as estruturas de um presídio por meio de PPP. Sobre os limites dessa parceria, assinale a correta.",
+   "alternativas": [
+    "A empresa pode aplicar sanções disciplinares aos presos, pois assumiu a gestão da unidade.",
+    "A empresa pode executar atividades materiais e instrumentais, mas não recebe o exercício do poder de polícia nem a aplicação de sanções.",
+    "A PPP transfere à empresa a titularidade do serviço penitenciário.",
+    "A delegação do poder de polícia é livre, desde que o contrato a preveja expressamente.",
+    "A empresa pode exercer funções de regulação do sistema prisional, se houver autorização legislativa."
+   ],
+   "correta": 1,
+   "comentario": "Serviços materiais e atividades instrumentais podem ser contratados. Já regulação, jurisdição, exercício nuclear do poder de polícia e demais atividades exclusivas do Estado não se delegam em PPP, por vedação expressa do art. 4º, III, da Lei 11.079/2004. A titularidade também não se transfere.",
+   "base": "Lei 11.079/2004, art. 4º, III"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada forma de prestação ao seu exemplo.",
+   "pares": [
+    [
+     "Centralização",
+     "Secretaria administra a UBS com servidores municipais"
+    ],
+    [
+     "Descentralização por serviços (outorga)",
+     "Autarquia criada por lei cuida do abastecimento de água"
+    ],
+    [
+     "Descentralização por colaboração (delegação)",
+     "Concessionária opera as linhas de ônibus urbanos"
+    ],
+    [
+     "Desconcentração",
+     "Secretaria cria um departamento interno"
+    ]
+   ],
+   "comentario": "Centralização é a pessoa política prestando por seus órgãos; outorga atribui o serviço por lei a entidade da Administração indireta; delegação entrega a execução a particular por contrato; desconcentração apenas redistribui tarefas dentro da mesma pessoa jurídica.",
+   "base": "Doutrina"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada dispositivo constitucional ao conteúdo de competência ou prestação.",
+   "pares": [
+    [
+     "CF, art. 21",
+     "Diversos serviços públicos federais"
+    ],
+    [
+     "CF, art. 25, § 2º",
+     "Gás canalizado, a cargo dos Estados"
+    ],
+    [
+     "CF, art. 30, V",
+     "Serviços de interesse local, incluído o transporte coletivo"
+    ],
+    [
+     "CF, art. 175",
+     "Prestação direta ou por concessão e permissão licitadas"
+    ]
+   ],
+   "comentario": "A Constituição distribui os serviços entre os entes e fixa, no art. 175, a regra geral da prestação: direta ou sob concessão e permissão, sempre por licitação. O enquadramento de cada setor pode exigir ainda legislação específica.",
+   "base": "CF, arts. 21, 25, 30 e 175"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "No Município de Vale Verde, o transporte coletivo é operado por concessionária privada; a autarquia municipal de mobilidade fixa padrões técnicos e acompanha a tarifa; a Secretaria de Mobilidade fiscaliza a execução por meio de um departamento interno recém-criado. Um vereador propõe que a concessionária, por ser dona dos ônibus, passe também a aplicar multas de trânsito aos motoristas particulares que bloquearem os corredores exclusivos.",
+   "pergunta": "Identifique titular, regulador, executor e fiscal, classifique as formas de organização envolvidas e analise a proposta do vereador.",
+   "resposta": "O titular do serviço é o Município, por se tratar de transporte coletivo de interesse local. A concessionária é a executora, por descentralização por colaboração, sem se tornar titular pelo fato de ser dona da frota. A autarquia de mobilidade exerce atribuições recebidas por lei, em descentralização por serviços, e o departamento interno da Secretaria é mera desconcentração. A proposta é inviável: aplicar multas é exercício nuclear do poder de polícia, núcleo de autoridade que não se transfere livremente ao particular, que pode apenas executar atividades materiais e instrumentais.",
+   "checklist": [
+    "Município como titular (art. 30, V) e concessionária como executora por colaboração",
+    "Autarquia como descentralização por serviços e departamento interno como desconcentração",
+    "Propriedade dos ônibus não transfere a titularidade",
+    "Indelegabilidade do poder de polícia ao particular"
+   ],
+   "base": "CF, arts. 30, V, e 175"
+  }
+ ]
+}

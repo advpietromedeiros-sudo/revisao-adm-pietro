@@ -1,0 +1,156 @@
+{
+ "trilha": "RC",
+ "n": 1,
+ "titulo": "Conceito, esferas e independência das instâncias",
+ "objetivo": "Distinguir as esferas civil, penal e administrativa, saber quando a sentença penal vincula o cível e separar responsabilidade subjetiva de objetiva.",
+ "relampago": [
+  "Responsabilidade civil do Estado é a obrigação de reparar o dano injusto imputado à atuação estatal; é extracontratual porque nasce do fato, não de contrato.",
+  "Um mesmo fato pode gerar três respostas: civil (indenizar), penal (punir o crime, sempre pessoal) e administrativa (punir a falta funcional).",
+  "Regra: independência das instâncias. Exceção: a absolvição penal por inexistência do fato ou negativa de autoria vincula o cível e o administrativo.",
+  "Absolvição por falta de provas ou por atipicidade não vincula; na atipicidade, sobra o resíduo administrativo (Súmula 18 do STF).",
+  "Excludente de ilicitude penal não livra o Estado perante o terceiro inocente; e pensão previdenciária pode ser cumulada com indenização.",
+  "Subjetiva exige dolo ou culpa; objetiva exige só conduta, dano e nexo. Vítima × Estado é objetiva; Estado × agente (regresso) é subjetiva."
+ ],
+ "questoes": [
+  {
+   "tipo": "ce",
+   "enunciado": "A responsabilidade civil do Estado é chamada de extracontratual porque o dever de indenizar nasce do próprio fato lesivo imputado à Administração, sem depender de vínculo contratual prévio com a vítima.",
+   "gabarito": "C",
+   "comentario": "Certo. O carro oficial que bate no seu veículo gera dever de indenizar mesmo que você nunca tenha contratado com o ente. Danos surgidos dentro de um contrato administrativo seguem disciplina própria (Lei nº 14.133/2021), estudada em contratos.",
+   "base": "Doutrina; CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A absolvição criminal do servidor por insuficiência de provas vincula o juízo cível e impede a condenação do Estado a indenizar a vítima pelo mesmo fato.",
+   "gabarito": "E",
+   "comentario": "Errado. Só vinculam as demais esferas a absolvição que declara a inexistência do fato ou a negativa de autoria. A falta de provas reflete o padrão de certeza do processo penal; no cível, outro padrão probatório pode levar à condenação.",
+   "base": "CC, art. 935; CPP, art. 66; Lei nº 8.112/1990, art. 126"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "Segundo o STJ, a Administração pode responder civilmente pelo dano causado por seu agente mesmo quando ele atuou amparado por causa excludente de ilicitude penal, como a legítima defesa.",
+   "gabarito": "C",
+   "comentario": "Certo. A legítima defesa torna a conduta lícita para o Direito Penal, mas a responsabilidade objetiva do Estado alcança também atos lícitos. O terceiro inocente atingido não suporta sozinho o custo de uma atuação feita em nome da coletividade; a excludente pode repercutir apenas no regresso contra o agente.",
+   "base": "STJ, Jurisprudência em Teses"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A viúva que já recebe pensão por morte do regime previdenciário não pode receber, do ente responsável pela morte do marido, indenização pelo mesmo fato, sob pena de dupla reparação.",
+   "gabarito": "E",
+   "comentario": "Errado. O STJ admite a cumulação, porque as naturezas são distintas: o benefício previdenciário é contributivo (o segurado pagou por ele) e a indenização é reparatória (decorre do dano). Uma verba não compensa a outra.",
+   "base": "STJ, Jurisprudência em Teses"
+  },
+  {
+   "tipo": "ce",
+   "enunciado": "A absolvição penal fundada no reconhecimento de que o fato não constitui crime não impede, por si só, a punição disciplinar do servidor pela mesma conduta.",
+   "gabarito": "C",
+   "comentario": "Certo. Uma conduta pode não ser crime e ainda configurar falta funcional ou ilícito civil. É o chamado resíduo administrativo, que autoriza a punição disciplinar mesmo após a absolvição penal por atipicidade.",
+   "base": "STF, Súmula 18; Lei nº 8.112/1990, art. 125"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Pela regra geral, as esferas civil, penal e administrativa são ___ entre si: podem tramitar ao mesmo tempo e chegar a conclusões diferentes sobre o mesmo fato.",
+   "opcoes": [
+    "independentes",
+    "subordinadas",
+    "prejudiciais",
+    "sucessivas"
+   ],
+   "correta": 0,
+   "comentario": "A regra é a independência das instâncias, e as sanções podem cumular-se. A comunicação é exceção, restrita à absolvição penal por inexistência do fato ou negativa de autoria.",
+   "base": "Lei nº 8.112/1990, art. 125; CC, art. 935, 1ª parte"
+  },
+  {
+   "tipo": "lacuna",
+   "enunciado": "Na responsabilidade ___, a vítima precisa provar conduta, dano, nexo causal e também dolo ou culpa do causador; é o modelo que rege a ação regressiva do Estado contra o agente.",
+   "opcoes": [
+    "objetiva",
+    "integral",
+    "subjetiva",
+    "social"
+   ],
+   "correta": 2,
+   "comentario": "A responsabilidade subjetiva exige o elemento anímico (dolo ou culpa). Na relação vítima × Estado vale a objetiva (conduta, dano e nexo); na relação Estado × agente, o regresso é subjetivo.",
+   "base": "CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "O motorista de uma ambulância municipal, embriagado, atropela um pedestre em serviço. Sobre as consequências do fato nas três esferas, assinale a alternativa correta.",
+   "alternativas": [
+    "Como o fato é um só, a condenação penal do motorista é condição para que o Município indenize a vítima.",
+    "O Município responde objetivamente perante a vítima e pode cobrar do motorista em regresso; o motorista responde ainda penal e disciplinarmente.",
+    "A responsabilidade penal recai sobre o Município, por ser o empregador do motorista.",
+    "Instaurado o PAD, a ação indenizatória fica suspensa até a decisão administrativa final.",
+    "A vítima deve processar o motorista, e só se ele não pagar poderá cobrar do Município."
+   ],
+   "correta": 1,
+   "comentario": "Um único fato gera três processos com lógicas próprias. No cível, o ente indeniza pela regra objetiva e depois exerce o regresso; no penal, a responsabilidade é sempre pessoal do agente; no administrativo, apura-se a falta funcional em PAD. Não há subordinação entre as instâncias.",
+   "base": "CF, art. 37, § 6º; Lei nº 8.112/1990, art. 125"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Em qual das hipóteses de absolvição criminal do servidor o juízo cível fica impedido de reconhecer a responsabilidade pelo mesmo fato?",
+   "alternativas": [
+    "Absolvição por insuficiência de provas.",
+    "Absolvição porque o fato não constitui infração penal.",
+    "Absolvição pelo reconhecimento de legítima defesa.",
+    "Absolvição por prescrição da pretensão punitiva.",
+    "Absolvição em que se declara provada a inexistência do fato."
+   ],
+   "correta": 4,
+   "comentario": "Só vincula o cível e o administrativo a absolvição que afirma que o fato não existiu ou que o réu não foi o autor. Falta de provas e atipicidade não vinculam, e a excludente de ilicitude penal não livra o Estado perante o terceiro.",
+   "base": "CC, art. 935; CPP, art. 66"
+  },
+  {
+   "tipo": "me",
+   "enunciado": "Assinale a alternativa que descreve corretamente a diferença entre responsabilidade subjetiva e objetiva no regime do art. 37, § 6º, da CF.",
+   "alternativas": [
+    "Na objetiva a vítima deve provar a culpa do serviço; na subjetiva, apenas o dano.",
+    "A objetiva dispensa a prova do nexo causal; a subjetiva exige.",
+    "A objetiva dispensa a prova de dolo ou culpa e rege a relação vítima × Estado; a subjetiva exige esse elemento e rege o regresso contra o agente.",
+    "As duas exigem dolo ou culpa; muda apenas quem tem o ônus de prová-los.",
+    "A subjetiva rege a relação vítima × Estado e a objetiva rege o regresso contra o agente."
+   ],
+   "correta": 2,
+   "comentario": "Na objetiva basta ligar a atuação estatal ao dano (conduta, dano e nexo). O nexo nunca é dispensado. O dolo ou a culpa só entram no regresso do Estado contra o agente, que é subjetivo por expressa dicção constitucional.",
+   "base": "CF, art. 37, § 6º"
+  },
+  {
+   "tipo": "associar",
+   "enunciado": "Associe cada esfera de responsabilidade à sua finalidade ou característica.",
+   "pares": [
+    [
+     "Esfera civil",
+     "Recompor o patrimônio ou compensar o sofrimento da vítima"
+    ],
+    [
+     "Esfera penal",
+     "Aplicar pena ao autor da infração, sempre de forma pessoal"
+    ],
+    [
+     "Esfera administrativa",
+     "Apurar falta funcional em sindicância ou PAD"
+    ],
+    [
+     "Comunicação das instâncias",
+     "Absolvição penal por inexistência do fato ou negativa de autoria"
+    ]
+   ],
+   "comentario": "A esfera civil tem conteúdo econômico (indenização); a penal pune o crime e nunca alcança o Estado como réu; a administrativa pune a falta disciplinar. A comunicação entre elas é exceção, ligada às absolvições que negam o fato ou a autoria.",
+   "base": "Lei nº 8.112/1990, arts. 125 e 126; CC, art. 935"
+  },
+  {
+   "tipo": "caso",
+   "enunciado": "Durante patrulhamento, um policial militar reage a um assalto a uma loja e atira contra o criminoso, em legítima defesa. O projétil atravessa a vitrine e fere gravemente uma vendedora. No processo criminal, o policial é absolvido com fundamento na legítima defesa. A vendedora, que também recebe benefício previdenciário por incapacidade, ajuíza ação indenizatória contra o Estado.",
+   "pergunta": "A absolvição do policial e o benefício previdenciário impedem a indenização da vendedora? Contra quem a ação deve ser proposta e qual o papel da excludente penal?",
+   "resposta": "Não impedem. A ação é proposta contra o Estado, que responde objetivamente pelos danos que seus agentes, nessa qualidade, causam a terceiros. A absolvição por legítima defesa não vincula o cível, pois não nega o fato nem a autoria, e o STJ admite a responsabilidade estatal mesmo com excludente de ilicitude penal, já que o regime objetivo alcança atos lícitos e a vendedora é terceira inocente. O benefício previdenciário pode ser cumulado com a indenização, por terem naturezas distintas (contributiva e reparatória). A legítima defesa poderá repercutir apenas na eventual ação regressiva contra o policial, que exige dolo ou culpa.",
+   "checklist": [
+    "Ação contra o Estado, com responsabilidade objetiva (art. 37, § 6º)",
+    "Legítima defesa não vincula o cível nem afasta o dever de indenizar o terceiro",
+    "Cumulação possível de benefício previdenciário e indenização",
+    "Excludente penal só repercute no regresso contra o agente"
+   ],
+   "base": "CF, art. 37, § 6º; CC, art. 935; STJ, Jurisprudência em Teses"
+  }
+ ]
+}
